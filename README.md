@@ -1,2 +1,1 @@
-# eead-csic-compbio.github.io
-website of the laboratory of computational biology at EEAD-CSIC
+Hi, this site distributes software produced at the Laboratory of Computational Biology at EEAD-CSIC.
