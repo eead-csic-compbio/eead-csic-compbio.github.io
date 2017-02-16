@@ -92,7 +92,7 @@ while(<MAKEDB>){} # format sequence db
 close(MAKEDB);
 push(@trash,"$tmpfilename.phr","$tmpfilename.pin","$tmpfilename.psq");
 
-
+my $annotated_domains = 0;
 open(DELTA,"$DELTABLAST -num_threads $INP_threads -query $tmpfilename -db $tmpfilename ".
   "-rpsdb $INP_CDD -evalue $INP_evalue -show_domain_hits -outfmt \"6 std qlen stitle\" |") ||
   die "# $0 : need a valid \$DELTABLAST path (please use -p path)\n";
@@ -124,9 +124,48 @@ while(my $line = <DELTA>)
   $inference = "protein motif:CDD:$cddid";
   $note = $data[13];
   push( @{$annotations{$strand}{$start}{$end}}, [ $inference, $note ] );
+  $annotated_domains++;
 }
 close(DELTA);
 
+warn "# $0 : annotated $annotated_domains CDD domains\n";
 
-# clean tmp files
+## 4) add domains as misc_features linked to original CDS features
+$ingbk = Bio::SeqIO->new( ); '-format' => 'embl', '-file' => "$ARGV[0]");
+
+my $seqout = new Bio::SeqIO('-format' => 'genbank', '-file' => ">$ARGV[1]");
+while( my $seq = $seqio->next_seq) {
+    $seqout->write_seq($seq)
+}
+
+
+$ingbk = new Bio::SeqIO(-file => $INP_infile, -format => 'genbank' );
+while( my $seq = $ingbk->next_seq())
+{
+  foreach my $f ($seq->get_SeqFeatures)
+  {
+    next if($f->primary_tag() ne 'CDS' || !$f->has_tag('translation'));
+
+    ($start,$end,$strand) =
+      ( $f->start(), $f->end(), $f->location()->strand() );
+
+    print "$start,$end,$strand\n";
+
+    my $misc_feat = Bio::SeqFeature::Generic->new(
+      -start =>$start,
+      -end   =>$end,
+      -primary_tag => 'misc_feature',
+      -tag => { 
+        inference => 'inference',
+        note      => 'nota'
+    });
+
+    $ingbk->add_SeqFeature($misc_feat);
+  }
+}
+
+
+
+
+## 5) clean tmp files
 unlink(@trash);
