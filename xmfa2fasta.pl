@@ -1,16 +1,17 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl 
 use strict;
 use Getopt::Std;
 
-# reads in XMFA file produced by progressive MAUVE and produces a multi-FASTA file 
-# in which each input genome takes a single line with syntenic blocks separated by
-# $BLOCKSEPARATOR chars. 
-# See http://darlinglab.org/mauve/user-guide/files.html for format definition
+# Reads in XMFA file produced by progressive MAUVE and produces a multi-FASTA file 
+# containing a multiple sequence alignment (MSA) in which each input genome takes 
+# a single line with syntenic blocks separated by $BLOCKSEPARATOR chars. 
+# Columns of the resulting MSA take the corresponding coordinates of the first input genome.
+# 
+# See http://darlinglab.org/mauve/user-guide/files.html for XMFA format definition
 #
 # B Contreras-Moreira, U Alonso EEAD-CSIC, Zaragoza, Spain
 
 my $BLOCKSEPARATOR = 'n';
-
 my $GAPCHAR = '-';
 
 my ($input_XMFA_file,$output_FASTA_file) = ('','');
