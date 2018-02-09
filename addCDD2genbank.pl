@@ -6,7 +6,7 @@
 # example:
 # ./addCDD2genbank.pl -i RSB205.gbk -o RSB205_pfam.gbk -c /my/oath/to/cdd_delta -d pfam
 
-# 2017 Bruno Contreras-Moreira (1) and Pablo Vinuesa (2):
+# 2017-8 Bruno Contreras-Moreira (1) and Pablo Vinuesa (2):
 # 1: http://www.eead.csic.es/compbio (Laboratory of Computational Biology, EEAD/CSIC/Fundacion ARAID, Spain)
 # 2: http://www.ccg.unam.mx/~vinuesa (Center for Genomic Sciences, UNAM, Mexico)
 
@@ -192,6 +192,7 @@ while( my $seq = $ingbk->next_seq())
         my $misc_feat = Bio::SeqFeature::Generic->new(
           -start =>$domstart,
           -end   =>$domend,
+	  -strand=>$strand,
           -primary_tag => 'misc_feature',
           -tag => { 
             $tag      => $value,
