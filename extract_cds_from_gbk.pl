@@ -93,7 +93,7 @@ sub extract_CDSs_from_genbank
           print "# extract_CDSs_from_genbank: skip $gbaccession $gene (TAKEORGANELLES=$TAKEORGANELLES)\n";
         }
         else {
-				  print DNA ">$protid|$gene|$product|$gbaccession|$chr|[$taxon$cv]\n$CDSseq\n";
+          print DNA ">$protid|$gene|$product|$gbaccession|$chr|[$taxon$cv]\n$CDSseq\n";
           $n_of_CDS++;	
         
           last SEQ if(defined($max_records) && $n_of_CDS == $max_records);
