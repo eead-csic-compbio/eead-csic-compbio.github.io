@@ -133,7 +133,7 @@ while(<BLASTP>){
 			print "\t$num_of_highlighted\t$DOPE\t$raw_model_filename\n";
 		}
 		else{
-			$model_filename = "$query_name.$DEFALIGNMETHOD.pdb";
+			$model_filename = "$query_name.$PDBcode\_$PDBchain.$DEFALIGNMETHOD.pdb";
 			rename($raw_model_filename, $model_filename);
 
 			if(keys(%key_residues)){
@@ -255,6 +255,10 @@ sub pairwise_align {
         	}
         	close(BLAST);
 	}	
+
+	# other possible methods:
+	# i) get a few homologues from say Swissprot and build a MSA including those and template
+	# ii) semi-global alignment with parasail
 
 	return ($qstart,$qend,$sstart,$send,$qseq,$sseq);
 }
