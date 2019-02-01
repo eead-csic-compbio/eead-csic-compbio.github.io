@@ -245,7 +245,7 @@ sub pairwise_align {
         my ($qstart,$qend,$sstart,$send,$qseq,$sseq);
 
 	if(!$method || $method eq 'blastp') {
-		
+		# note SW	
         	open(BLAST,"$BLASTPEXE -query $filenameq -subject $filenamet -max_hsps 1 ".
                         "-use_sw_tback -outfmt \"6 qstart qend sstart send qseq sseq\" |") ||
                 	die "# ERROR: cannot run $BLASTPEXE\n";
@@ -283,7 +283,7 @@ sub make_infiles4modeller {
 	# write alignment to file
 	my $align_filename = "$qname.$tname.ali";
 	open(ALI,">",$align_filename) || die "# ERROR: cannot create $align_filename\n";
-	print ALI ">P1;$qname\nsequence:$qname:$qstart:A:$qend:A:query:::\n$qseq*\n";
+	print ALI ">P1;$qname\nsequence:::::::::\n$qseq*\n";
 	print ALI ">P1;$tname\nstructureX:$tname:$sstart:$chain:$send:$chain:template:::\n$sseq*\n"; 
 	close(ALI);
 
@@ -293,9 +293,9 @@ sub make_infiles4modeller {
 	my $script = <<~MODSTRING;
 		import sys
 		from modeller.automodel import *   
-		class MyModel(automodel):
-			def special_patches(self, aln):
-				self.rename_segments(segment_ids='A', renumber_residues=$qstart)
+		#class MyModel(automodel):
+		#	def special_patches(self, aln):
+		#		self.rename_segments(segment_ids='A', renumber_residues=$qstart)
 
 		log.verbose()    
 		env = environ() 
@@ -306,8 +306,10 @@ sub make_infiles4modeller {
 		a.starting_model= 1 
 		a.ending_model  = 1                 
 		a.make()
+		a.rename_segments(segment_ids=' ', renumber_residues=$qstart)
 		ok_models = [x for x in a.outputs if x['failure'] is None]
 		m = ok_models[0]
+		a.write(file=m['name']) # only works when 1 model was built
 		sys.stderr.write("Top model: %s DOPE: %.3f" % (m['name'], m['DOPE score']))
 
 		MODSTRING
