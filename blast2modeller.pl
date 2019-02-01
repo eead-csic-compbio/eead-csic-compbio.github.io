@@ -256,8 +256,9 @@ sub pairwise_align {
         	close(BLAST);
 	}	
 
-	# other possible methods:
-	# i) get a few homologues from say Swissprot and build a MSA including those and template
+	# other possible methods to be added:
+	# i) get a few homologues from say Swissprot and build a MSA including those and template; 
+	#    then extract implicit pairwise query to template
 	# ii) semi-global alignment with parasail
 
 	return ($qstart,$qend,$sstart,$send,$qseq,$sseq);
