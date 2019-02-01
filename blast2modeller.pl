@@ -3,11 +3,12 @@ use strict;
 use warnings;
 use File::Temp qw/ tempfile /;
 
-# search for a PDB template online and build a MODELLER model with it
+# quickly search for a PDB template online and build a MODELLER model with it
 # Bruno Contreras Moreira, Pablo Vinuesa 2019
 
 my $DEFBLASTPEVAL  = 0.00001; # PDB contains ~100K structures
-my $BLASTPRESTURL  = "http://www.rcsb.org/pdb/rest/getBlastPDB1?eCutOff=$DEFBLASTPEVAL&matrix=BLOSUM62&outputFormat=XML";
+my $BLASTPRESTURL  = "http://www.rcsb.org/pdb/rest/getBlastPDB1".
+			"?eCutOff=$DEFBLASTPEVAL&matrix=BLOSUM62&outputFormat=XML";
 my $PDBDOWNLOADURL = "https://files.rcsb.org/download/WXYZ.pdb.gz";
 my $BLASTPEXE      = "blastp";  # add path if needed
 my $MODELLEREXE    = 'mod9.21'; # add path if needed
@@ -37,8 +38,8 @@ while(<FAA>){
 	if(/^>(\S+)/) {
 		chomp;
 		$query_name = $1;
+		$query_name =~ s/[\|;&><\[\]]/_/g;
 		$query_blast_file = $query_name .'.blast';
-		$query_blast_file =~ s/[\|;&><\[\]]/_/g;
 		$num_of_seqs++;
 		if($num_of_seqs > 1){
 			warn "# WARNING: only first sequence in FASTA file will be processed\n";
