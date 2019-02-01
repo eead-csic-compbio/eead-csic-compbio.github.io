@@ -19,7 +19,7 @@ my $MAXMODELS      = 1;
 my %key_residues   = ();
 
 if(!$ARGV[0]){
-	print "# usage: $0 <input.faa> [comma-separated residue numbers]\n";
+	print "# usage: $0 <input.faa> [optional residue numbers to be highlighted (B-factor)]\n\n";
 	print "# example: $0 my_sequence.faa 12,34,56\n";
 	exit(0);
 }
