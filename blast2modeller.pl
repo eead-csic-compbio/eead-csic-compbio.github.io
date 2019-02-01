@@ -293,10 +293,6 @@ sub make_infiles4modeller {
 	my $script = <<~MODSTRING;
 		import sys
 		from modeller.automodel import *   
-		#class MyModel(automodel):
-		#	def special_patches(self, aln):
-		#		self.rename_segments(segment_ids='A', renumber_residues=$qstart)
-
 		log.verbose()    
 		env = environ() 
 		env.io.atom_files_directory = '$PDBTEMPLATEDIR'
@@ -304,12 +300,12 @@ sub make_infiles4modeller {
 			knowns='$tname',sequence='$qname',
 			assess_methods=(assess.DOPE))      
 		a.starting_model= 1 
-		a.ending_model  = 1                 
+		a.ending_model  = 1 # do not change, see hack below                
 		a.make()
 		a.rename_segments(segment_ids=' ', renumber_residues=$qstart)
 		ok_models = [x for x in a.outputs if x['failure'] is None]
 		m = ok_models[0]
-		a.write(file=m['name']) # only works when 1 model was built
+		a.write(file=m['name']) # hack only works when 1 model was built
 		sys.stderr.write("Top model: %s DOPE: %.3f" % (m['name'], m['DOPE score']))
 
 		MODSTRING
