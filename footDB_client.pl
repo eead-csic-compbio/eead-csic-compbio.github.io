@@ -42,7 +42,7 @@ else { # prepare Web Services connection
 		-> proxy('http://floresta.eead.csic.es/footprintdb/ws.cgi');
 }
 
-if(defined($opts{'u'}){ $username = $opts{'u'} }
+if(defined($opts{'u'})){ $username = $opts{'u'} }
 
 
 
