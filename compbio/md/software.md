@@ -45,6 +45,7 @@
     [microbia](http://aem.asm.org/cgi/pmidlookup?view=long&pmid=24096415),
     [plants](http://journal.frontiersin.org/article/10.3389/fpls.2017.00184/full))
 -   [GET\_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers): software package designed to identify optimal genomic markers for phylogenomics, population genetics and genomic taxonomy.
+-   [coexpression_motif_discovery](https://eead-csic-compbio.github.io/coexpression_motif_discovery): recipes to discover cis-regulatory motifs within proximal promoters of plants in RSAT::Plants.
 -   [Multigenomic Entropy-Based
     Score (MEBS)](https://github.com/eead-csic-compbio/metagenome_Pfam_score):
     protocol for finding informative protein families and then using

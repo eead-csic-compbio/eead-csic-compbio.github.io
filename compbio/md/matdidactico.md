@@ -22,6 +22,8 @@
 
 * [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021)
 
+* [Tuning promoter boundaries improves regulatory motif discovery in non-model plants: the peach example](https://eead-csic-compbio.github.io/coexpression_motif_discovery/peach/Tutorial.html) (2020)
+
 * [From genomes to pangenomes: understanding variation among individuals and species](http://eead-csic-compbio.github.io/get_homologues/tutorial/pangenome_tutorial.html) (2020)
 
 * Methods in biostatistics and bioinformatics: [notes](https://github.com/eead-csic-compbio/biostats_bioinfo) & [exercises](https://github.com/eead-csic-compbio/methods_biostats_bioinfo) (2019)
