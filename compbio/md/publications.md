@@ -1,5 +1,5 @@
 
-# Laboratory of computational & structural biology
+# Computational & structural biology group
 
 
 <table align="center" width=100%>
@@ -9,6 +9,7 @@
     <td align="center"><b>[Publications](publications.html)</b></td>
     <td align="center"><b>[Software](software.html)</b></td>
     <td align="center"><b>[Material educativo](matdidactico.html)</b></td>
+    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a></td>    
     <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
   </tr>
 </table>
@@ -16,8 +17,8 @@
 
 ### Articles & preprints 
 
--   Bruno Contreras Moreira: [scholar](https://scholar.google.com/citations?user=xtWJ8JsAAAAJ&hl=en) [digital.csic](https://digital.csic.es/browse?type=author&authority=rp02661)
--   Inmaculada Yruela: [scholar](https://scholar.google.com/citations?user=HEQpE0oAAAAJ) [digital.csic](https://digital.csic.es/cris/rp/rp02621) 
+-   Bruno Contreras Moreira: [scholar](https://scholar.google.com/citations?user=xtWJ8JsAAAAJ&hl=en) [digital.csic](https://digital.csic.es/browse?type=author&authority=rp02661) [ORCiD](https://orcid.org/0000-0002-5462-907X) 
+-   Inmaculada Yruela: [scholar](https://scholar.google.com/citations?user=HEQpE0oAAAAJ) [digital.csic](https://digital.csic.es/cris/rp/rp02621) [ORCiD](https://orcid.org/0000-0003-3608-4720)
 -   Najla Ksouri: [scholar](https://scholar.google.com/citations?user=gk54IH0AAAAJ&hl=en) [digital.csic](https://digital.csic.es/browse?type=author&value=Ksouri%2C+Najla&value_lang=es_ES)
 
 ### Books and chapters
@@ -26,7 +27,7 @@
 
 <li>**Contreras-Moreira B** (2019) Los genomas de las plantas que nos comemos. RICA Opiniones y Experiencias. http://hdl.handle.net/10532/4720</li>
 
-<li>**Contreras-Moreira B** (2018) Algoritmos en Bioinformática Estructural.   doi:[10.20350/digitalcsic/8544](https://doi.org/10.20350/digitalcsic/8544).</li>
+<li>**Contreras-Moreira B** (2018) Algoritmos en Bioinformática Estructural.   [10.20350/digitalcsic/8544](https://doi.org/10.20350/digitalcsic/8544).</li>
 
 <li>**Contreras-Moreira B**, Castro-Mondragon J, Rioualen C,
     **Cantalapiedra CP**, van Helden J (2016) RSAT::Plants: Motif

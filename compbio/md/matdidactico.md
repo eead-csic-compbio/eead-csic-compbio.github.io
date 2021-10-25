@@ -1,5 +1,5 @@
 
-# Laboratory of computational & structural biology
+# Computational & structural biology group
 
 
 <table align="center" width=100%>
@@ -9,6 +9,7 @@
     <td align="center"><b>[Publications](publications.html)</b></td>
     <td align="center"><b>[Software](software.html)</b></td>
     <td align="center"><b>[Material educativo](matdidactico.html)</b></td>
+    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a></td>
     <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
   </tr>
 </table>
