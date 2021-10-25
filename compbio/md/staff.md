@@ -6,9 +6,9 @@
   <tr>
     <td align="center"><b>[Home](index.html)</b></td>
     <td align="center"><b>[Members](staff.html)</b></td>
-    <td align="center"><b>[Publications](publications_computational_biology_bioinformatics.html)</b></td>
-    <td align="center"><b>[Software](software_computational_biology_bioinformatics.html)</b></td>
-    <td align="center"><b>[Material educativo](material_didactico_biologia_computacional_bioinformatica.html)</b></td>
+    <td align="center"><b>[Publications](publications.html)</b></td>
+    <td align="center"><b>[Software](software.html)</b></td>
+    <td align="center"><b>[Material educativo](matdidactico.html)</b></td>
     <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
   </tr>
 </table>
