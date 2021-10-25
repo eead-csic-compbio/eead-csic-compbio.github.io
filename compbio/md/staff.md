@@ -1,47 +1,32 @@
-\
 
-laboratory of computational & structural biology
-------------------------------------------------
+# Laboratory of computational & structural biology
 
-<div id="header">
 
-  ----------------------------------- ------------------------------------------------------------------------ ---------------------------------------- ------------------------------------
-  ![logo CSIC](./pics/logoCSIC.png)   [Estación Experimental Aula Dei](http://www.eead.csic.es/)\              [Fundación ARAID](http://www.araid.es)   ![logo ARID](./pics/logoARAID.gif)
-                                      [Consejo Superior de Investigaciones Científicas](http://www.csic.es/)                                            
-  ----------------------------------- ------------------------------------------------------------------------ ---------------------------------------- ------------------------------------
+<table align="center" width=100%>
+  <tr>
+    <td align="center"><b>[Home](index.html)</b></td>
+    <td align="center"><b>[Members](staff.html)</b></td>
+    <td align="center"><b>[Publications](publications_computational_biology_bioinformatics.html)</b></td>
+    <td align="center"><b>[Software](software_computational_biology_bioinformatics.html)</b></td>
+    <td align="center"><b>[Material educativo](material_didactico_biologia_computacional_bioinformatica.html)</b></td>
+    <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
+  </tr>
+</table>
 
-</div>
 
-<div id="content">
+### Current members of the lab 
 
--   [Home](index.html)
--   [Lab members](staff.html)
--   [Our collaborators](collaborators.html)
--   [Publications](publications_computational_biology_bioinformatics.html)
--   [Software](software_computational_biology_bioinformatics.html)
--   [Material
-    educativo](material_didactico_biologia_computacional_bioinformatica.html)
-
-\
-\
 -   [Bruno Contreras Moreira](https://orcid.org/0000-0002-5462-907X)
-    (2007-, at EMBL-EBI since Oct2018)
--   [Inmaculada
-    Yruela](http://www.eead.csic.es/home/staffinfo?Id=58) (2011-)
+-   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58) 
 -   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
     (Sept2015-Oct2016, Apr2018-, PhD co-directed by Y Gogorcena)
--   [María Ángeles
-    Decena](http://www.bifi.es/bioflora/research-team.html) (Sep2018-,
+-   [María Ángeles Decena](http://www.bifi.es/bioflora/research-team.html) (Sep2018-,
     PhD co-directed with Pilar Catalán)
+-   [Ammar Abdalrahem](https://www.researchgate.net/profile/Ammar-Abdalrahem) (Oct2021)
 
-![](./pics/fotoGrupoJun2018.jpeg){width="400"}
-Álvaro (first from the right), Bruno, Chesco, Najla and Carlos in June,
-2018
-\
-![](./pics/fotoGrupoSept2017.jpeg){width="400"}
-The group pictured in September, 2017
-\
-### Previous members / visitors of the lab {#previous-members-visitors-of-the-lab style="text-align:left"}
+### Previous members / visitors
+
+Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg).
 
 -   [Carlos P.
     Cantalapiedra](https://scholar.google.com/citations?user=fa8RszgAAAAJ)
@@ -115,4 +100,3 @@ The group pictured in September, 2017
     assignment', funded by [CSIC Introduction to
     research](https://sede.csic.gob.es/servicios/formacion-y-empleo/formacion-de-personal-investigador) program.
 
-</div>
