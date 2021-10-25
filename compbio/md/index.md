@@ -1,6 +1,6 @@
-
-# Computational & structural biology group
-
+---
+title: Computational & structural biology group
+---
 
 <table align="center" width=100%>
   <tr>
