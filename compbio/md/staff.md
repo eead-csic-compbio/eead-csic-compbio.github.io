@@ -16,13 +16,13 @@
 
 ### Current members of the lab 
 
--   [Bruno Contreras Moreira](https://orcid.org/0000-0002-5462-907X)
--   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58) 
+-   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X)
+-   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720)
 -   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
     (Sept2015-Oct2016, Apr2018-, PhD co-directed by Y Gogorcena)
 -   [María Ángeles Decena](http://www.bifi.es/bioflora/research-team.html) (Sep2018-,
     PhD co-directed with Pilar Catalán)
--   [Ammar Abdalrahem](https://www.researchgate.net/profile/Ammar-Abdalrahem) (Oct2021)
+-   [Ammar Abdalrahem](https://www.researchgate.net/profile/Ammar-Abdalrahem) (Oct2021-, MSc from IAMZ)
 
 ### Previous members / visitors
 
