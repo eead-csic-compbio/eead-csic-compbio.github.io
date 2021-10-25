@@ -20,7 +20,7 @@
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720)
 -   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
     (Sept2015-Oct2016, Apr2018-, PhD co-directed by Y Gogorcena)
--   [María Ángeles Decena](http://www.bifi.es/bioflora/research-team.html) (Sep2018-,
+-   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-,
     PhD co-directed with Pilar Catalán)
 -   [Ammar Abdalrahem](https://www.researchgate.net/profile/Ammar-Abdalrahem) (Oct2021-, MSc from IAMZ)
 
@@ -33,7 +33,7 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
     (Jul-Nov2010,Sep2011-Sep2015,Feb2016-Sep2018,
     [PhD](https://dialnet.unirioja.es/servlet/tesis?codigo=120706)
     co-directed by A Casas)
--   [Rubén Sancho Cohen](http://www.bifi.es/bioflora/research-team.html)
+-   [Rubén Sancho Cohen](https://www.researchgate.net/profile/Ruben-Sancho)
     (Jan2014-Sep2018, PhD co-directed with Pilar Catalán)
 -   [Francesc Montardit
     Tardá](http://www.eead.csic.es/home/staffinfo?Id=587)
