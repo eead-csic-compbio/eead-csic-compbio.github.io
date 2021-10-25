@@ -1,4 +1,3 @@
-Hello, 
-here we publish random [scripts](./scripts) produced at the [Laboratory of Computational & Structural Biology at EEAD-CSIC](http://www.eead.csic.es/compbio) and also the source of our website.
+Here we manage the contents of the website of the [Computational & Structural Biology group](http://www.eead.csic.es/compbio) and a few assorted [scripts](./scripts).
 
-See also the [repositories](https://github.com/eead-csic-compbio?tab=repositories).
+See the [repositories](https://github.com/eead-csic-compbio?tab=repositories) for source code and documentation.
