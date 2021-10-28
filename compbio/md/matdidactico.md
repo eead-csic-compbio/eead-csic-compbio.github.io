@@ -75,3 +75,5 @@ Rioja)
 
 * Cómo preparar [material científico en inglés](http://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents)
 (*Nature*)
+
+* [Código de Buenas Prácticas Científicas del CSIC](http://bibliotecas.csic.es/es/codigo.buenas%20practicas-cientificas-csic)
