@@ -23,7 +23,7 @@ title: Computational & structural biology group members
     (Sept2015-Oct2016, Apr2018-, PhD co-supervised by Yolanda Gogorcena)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-,
     PhD co-supervised by Pilar Catalán)
--   [Ammar Abdalrahem](https://www.researchgate.net/profile/Ammar-Abdalrahem) (Oct2021-, MSc from IAMZ)
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from IAMZ) 
 
 ### Previous members / visitors
 
