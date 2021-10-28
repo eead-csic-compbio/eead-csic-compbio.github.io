@@ -25,9 +25,6 @@ title: Computational & structural biology group software
 -   [footprintDB](http://floresta.eead.csic.es/footprintdb/): a database
     of transcription factors with annotated cis elements and binding
     interfaces
--   [TFcompare](http://floresta.eead.csic.es/tfcompare/): a tool for
-    structural alignment of DNA motifs and protein domains from DNA
-    binding protein complexes
 -   [3D-footprint](http://floresta.eead.csic.es/3dfootprint/): a
     database for the structural analysis of protein-DNA complexes
 <!---   [TFmodeller](http://www.ccg.unam.mx/tfmodeller/): a server to build and analyse comparative models of DNA-binding proteins -->
@@ -36,7 +33,7 @@ title: Computational & structural biology group software
     PCR amplifications, created in collaboration with [Pablo
     Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/) (UNAM,México)
 
-### Source code and binaries 
+### Source code, binaries and Docker containers
 
 -   [GET\_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues):
     a versatile software package for pan-genome analysis (Linux/MacOSX
@@ -61,6 +58,8 @@ title: Computational & structural biology group software
     (Linux 64bit Perl scripts, binaries,
     [manual](http://www.eead.csic.es/compbio/soft/manual_dnaprot.pdf),
     [PDF](http://www.biomedcentral.com/1471-2105/9/436))
+-   [TFcompare](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfcompare): a tool for
+    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes
 
 ### Assorted utilities 
 
@@ -83,5 +82,6 @@ Other repos with code contributed by members of the lab:
 
 * https://github.com/Cantalapiedra 
 * https://github.com/vinuesa/get_phylomarkers 
+* https://github.com/rsa-tools
 * https://github.com/Ensembl/plant-scripts 
 
