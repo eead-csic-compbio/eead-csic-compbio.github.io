@@ -137,4 +137,14 @@ title: Computational & structural biology group publications
     ([PDF](./papers/PhD_thesis_Bruno_Contreras-Moreira2003.pdf),
     [talk](./papers/exit_cruk2004.pdf))
 
-</div>
+### Supplementary materials of publications
+
+- [homeobox interface data](suppl/homeobox_interface/data.xls) from Sebastián A, Cantalapiedra CP and Contreras-Moreira B (2012) Interface similarity improves comparison of DNA-binding proteins: the Homeobox example. Lecture Notes in Computer Science, 6620/2012:72-82
+
+- [DNA-binding protein families](suppl/dna_families) from Contreras-Moreira B, Sancho J, Espinosa Angarica V. (2010) Comparison of DNA binding across protein superfamilies. Proteins, 78(1):52-62
+
+- [network markers](suppl/network_markers) from Janga SC and Contreras-Moreira B (2010) Dissecting the expression patterns of transcription factors across conditions using an integrated network-based approach. Nucleic Acids Research, 38(20):6841-6856
+
+- [prok_specificity_suppl](suppl/prok_specificity) from Lozada-Chávez I, Espinosa Angarica V, Collado-Vides J and Contreras-Moreira B (2008) The role of DNA-binding specificity in the evolution of bacterial regulatory networks. Journal of Molecular Biology, 379(3):627-43
+
+- [footprints](suppl/ismb2006) from Contreras-Moreira B and Collado-Vides J (2006) Comparative footprinting of DNA-binding proteins. Bioinformatics, 22(14): e74 
