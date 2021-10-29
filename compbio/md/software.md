@@ -59,7 +59,9 @@ title: Computational & structural biology group software
     [manual](http://www.eead.csic.es/compbio/soft/manual_dnaprot.pdf),
     [PDF](http://www.biomedcentral.com/1471-2105/9/436))
 -   [TFcompare](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfcompare): a tool for
-    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes
+    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes [legacy Docker]
+-   [TFmodeller](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes [legacy Docker]
+    
 
 ### Assorted utilities 
 
