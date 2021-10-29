@@ -1,0 +1,91 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <title>Supplementary material</title>
+</head>
+
+<body>
+
+<center>
+<h1><span style="font-size: 16pt; color: black;" lang="EN-GB">
+<strong>Dissecting the expression patterns of transcription factors across conditions using an integrated network-based approach</strong>
+</span></h1>
+</center>
+
+<center>
+<p style="margin-bottom: 0cm; line-height: 200%;"><small><span lang="es-MX">
+Sarath Chandra Janga<sup>1,*</sup>and Bruno Contreras-Moreira<sup>2,3,4,*</sup>
+</span></small></p>
+</center>
+
+<p><span style="font-size: 10pt;" lang="ES-MX"><sup>1</sup>MRC Laboratory of Molecular Biology, Hills Road, Cambridge, CB2 0QH, United Kingdom.</span></p>
+<p class="Section1"><span style="font-size: 10pt;" lang="ES-MX"><sup>2</sup></span><span style="font-size: 10pt;" lang="ES-MX">Estaci&oacute;n Experimental de Aula Dei /CSIC, Universidad de Zaragoza, Av.Monta&ntilde;ana 1.005, 50059 Zaragoza, Espa&ntilde;a.</span></p>
+<p><span style="font-size: 10pt;" lang="ES-MX"><sup>3</sup></span><span	style="font-size: 10pt;" lang="ES-MX">Fundaci&oacute;n ARAID, Paseo Mar&iacute;a Agust&iacute;n 36, Zaragoza, Espa&ntilde;a.</span></p>
+<p><span style="font-size: 10pt;" lang="ES-MX"><sup>4</sup></span><span	style="font-size: 10pt;" lang="ES-MX">Institute of Biocomputation and Physics of Complex Systems (BIFI), Universidad de Zaragoza, Spain</span></p>
+
+
+<p><span style="font-size: 10pt;" lang="EN-GB">*Corresponding authors:&nbsp;<o:p></o:p></span> </p>
+<p><span style="font-size: 10pt; font-family: Arial;" lang="ES-MX"><o:p></o:p></span>
+<span style="font-size: 10pt;" lang="ES-MX">Sarath Chandra Janga:&nbsp;</span><span
+ style="font-size: 10pt; font-family: Arial;" lang="ES-MX"><a href="mailto:sarath@mrc-lmb.cam.ac.uk">sarath@mrc-lmb.cam.ac.uk</a><o:p></o:p></span> <br>
+<span style="font-size: 10pt; font-family: Arial;" lang="ES-MX"><o:p></o:p></span><span style="font-size: 10pt; font-family: Arial;" lang="ES-MX"><o:p><span style="font-size: 10pt;" lang="ES-MX">Bruno Contreras-Moreira:&nbsp;</span><span style="font-size: 10pt; font-family: Arial;" lang="ES-MX"><a href="mailto:bcontreras@eead.csic.es">bcontreras@eead.csic.es</a></span></o:p></span></p>
+<p class="style6">&nbsp;</p>
+<p class="style6"><span style=""><b>Abstract</b><o:p></o:p></span> </p>
+<p><span style="font-size: 10pt;" lang="EN-GB"> </span>
+
+In prokaryotes, regulation of gene expression is predominantly controlled at the level of transcription. Transcription in turn is mediated by a set of DNA-binding factors called Transcription Factors (TFs). In this study, we map the complete repertoire of ~ 300 TFs of the bacterial model, i<em>Escherichia coli</em>, on to gene expression data for a number of non-redundant experimental conditions and show that TFs are generally expressed at a lower level than other functional classes. We also demonstrate that different conditions harbor varying number of active TFs with an average of about 15% of the total repertoire being significantly expressed across conditions, with certain stress and drug induced conditions exhibiting as high as one-third of the total collection of TFs. Our results also show that activators are more abundant than repressors in the set of significantly expressed TFs across conditions, indicating that activation of promoters might be a more common phenomenon than repression in bacteria. Finally, to understand the association of TFs with different conditions and to elucidate their dynamic interplay with other TFs we develop a network-based framework to identify TFs which act as markers (those which are responsible for condition-specific transcriptional rewiring) starting from a literature curated static set of TF-TF regulatory interactions. This analysis allowed us to pinpoint several marker TFs as being central in various specialized conditions like drug-induction or growth condition variations, which we discuss in light of previously reported experimental findings. Further analysis showed that a majority of identified markers effectively control the expression of their regulons. It was also found that closeness is a key centrality measure which can aid in the successful identification of marker TFs in regulatory networks. Our results suggest the utility of the network-based approaches developed in this study to be applicable for understanding other interactomic datasets. 
+
+<h3>I. Datasets used in the study</h3>
+An EXCEL file (<a href="./supplementary_data.xls">supplementary_data.xls</a>) containing: 
+
+<ol>
+	<li>A <a href="http://regulondb.ccg.unam.mx/">RegulonDB</a>-annotated list of transcription factors in <em>E.coli K12</em>.</li>
+	<li>A classification of TFs in term of sensing class (for compete details please refer to these papers/PMIDs: <a href="http://www.ncbi.nlm.nih.gov/pubmed/16311037">16311037</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/17321548">17321548</a>).</li>
+	<li>A list of TFs clasified in terms of network connectivity.</li>
+        <li>A list of regulatory interactions between TFs and their target genes (the original and up-to-date version is available from <a href="http://regulondb.ccg.unam.mx/data/network_tf_gene.txt">RegulonDB</a>).</li>
+        <li>A two-column file describing the static TF-TF regulatory network used in this work.</li>
+	<li>A list of non-redundant microarray conditions (<0.95 Pearson correlation as described in Materials and Methods). Expression data was obtained from <a href="http://m3d.bu.edu/cgi-bin/web/array/index.pl?section=home">M3D</a> database using the Build 4 of the <em>E. coli </em> expression compendium. </li>
+</ol>	
+
+<h3>II. Supplementary figures and tables</h3>
+An EXCEL file (<a href="./supplementary_figures_results.xls">supplementary_figures_results.xls</a>) containing all the results used along the manuscript, plus a few extra figures and tables:
+
+<ol>
+        <li>Expression data linked to COG and Riley classifications used to produce Figure 1, which presents a comparison of the expression levels of TFs with other functional classes.</li>
+        <li>Degree vs associations data used to plot Figure 6A in the manuscript.</li>
+        <li>Figure S1, showing the proportion of expressed TFs in each H,M,L connectivity class across conditions.</li>
+        <li>Table S1, listing all TFs found to be associated to any microarray conditions.</li>
+        <li>Table S2, listing all asociated TFs (markers) associated to each of the 62 nr conditions, as measured in terms of network centrality measures. This table contains the data used to generate Figure 6B (betweeness correlation) in the manuscript and also lists those conditions for which no markers where found.</li>
+        <li>Table S3, detailing the expression change measured in the positively and negatively regulated regulons of marker TFs.</li>
+</ol>
+
+
+<h3>III. mRNA expression patterns of transcription factors across conditions. Identifying active TFs in each condition.</h3>
+
+<p>To identify active TFs in each condition we first plotted the expression level of each TF across conditions. These transcriptional patterns can be browsed and downloaded <a href="./expression_patterns_nr95/index.html">here</a>. Since different TFs are expressed to varying levels it is not possible to identify active TFs based on a single expression level threshold. Therefore we defined Significant Expression Threshold (SET) as described in Materials and Methods for each TF, enabling us to detect active TFs. Note that threshold values are marked with arrows in the diagrams.</p>
+
+<h3>IV. Dynamic TF-TF networks for 62 non-redundant conditions</h3>
+<p>Condition-specific TF-TF subnetworks can be browsed from this <a href="./networks_Z1.0nr95/index.html">link</a>. These networks are the basis for the identification of markers for each condition as described in the manuscript. An animated GIF which shows the observed network re-wiring is available <a href="./networks_Z1.0nr95/TRN_animation.gif">here</a>.
+</p>
+<br>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4570680; 
+var sc_invisible=1; 
+var sc_partition=56; 
+var sc_click_stat=1; 
+var sc_security="10333d23"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="free web stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4570680/0/10333d23/1/"
+alt="free web stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+
+</html>
