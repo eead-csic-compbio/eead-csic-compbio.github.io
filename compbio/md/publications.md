@@ -141,7 +141,7 @@ title: Computational & structural biology group publications
 
 - [homeobox interface data](suppl/homeobox_interface/data.xls) from Sebastián A, Cantalapiedra CP and Contreras-Moreira B (2012) Interface similarity improves comparison of DNA-binding proteins: the Homeobox example. Lecture Notes in Computer Science, 6620/2012:72-82
 
-- [DNA-binding protein families](suppl/dna_families) from Contreras-Moreira B, Sancho J, Espinosa Angarica V. (2010) Comparison of DNA binding across protein superfamilies. Proteins, 78(1):52-62
+- [suppl](suppl/dna_families/supplementary_material.pdf), [alignments](suppl/dna_families/alignments.zip) and [superimpositions](suppl/dna_families/mammoth.zip) from Contreras-Moreira B, Sancho J, Espinosa Angarica V. (2010) Comparison of DNA binding across protein superfamilies. Proteins, 78(1):52-62
 
 - [network markers](suppl/network_markers) from Janga SC and Contreras-Moreira B (2010) Dissecting the expression patterns of transcription factors across conditions using an integrated network-based approach. Nucleic Acids Research, 38(20):6841-6856
 
