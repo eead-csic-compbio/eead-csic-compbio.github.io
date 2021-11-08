@@ -19,7 +19,7 @@ The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic
 
 -   (Pan)genomics and transcriptional regulation of grasses
 
--   Pvolutionary and structural analysis of transcription factors, flavoenzymes and disordered proteins in plants
+-   Evolutionary and structural analysis of transcription factors, flavoenzymes and disordered proteins in plants
 
 
 ![](pics/EEAD.jpg)
