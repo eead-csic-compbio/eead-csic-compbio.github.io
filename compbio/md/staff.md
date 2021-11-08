@@ -106,11 +106,12 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
 - [Pilar Catalán](http://bifi.es/bioflora/research-team/profile1.html), EPS Huesca, Universidad de Zaragoza
 - [Pablo Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/), Centro de Ciencias Genómicas-UNAM, México
 - [Milagros Medina, Patricia Ferreira, Marta Martínez Júlvez](http://bifi.es), BIFI-Universidad de Zaragoza 
+- [Jesús I Martínez](http://www.unizar.es/icma/depart/epr/epr.htm), ICMA-CSIC-Universidad de Zaragoza 
+- [Inés García-Rubio](http://cud.unizar.es/inesgrubio), Centro Universitario de la Defensa, Zaragoza 
+
 - the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
 - the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
 - Ensembl Plants, Gramene, UniProt and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
-<!--- [Jesús I Martínez](http://www.unizar.es/icma/depart/epr/epr.htm), ICMA-CSIC-Universidad de Zaragoza 
-Dra. Inés García-Rubio, Centro Universitario de la Defensa (CUD), Zaragoza. http://cud.unizar.es/inesgrubio-->
 
 
 <!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
