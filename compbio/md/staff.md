@@ -99,3 +99,33 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
     assignment', funded by [CSIC Introduction to
     research](https://sede.csic.gob.es/servicios/formacion-y-empleo/formacion-de-personal-investigador) program.
 
+
+### Current collaborators
+
+- [Ana Casas](http://www.eead.csic.es/home/staffinfo?Id=67), [Ernesto Igartua](http://www.eead.csic.es/home/staffinfo?Id=69), Estación Experimental de Aula Dei-CSIC
+- [Pilar Catalán](http://bifi.es/bioflora/research-team/profile1.html), EPS Huesca, Universidad de Zaragoza
+- [Pablo Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/), Centro de Ciencias Genómicas-UNAM, México
+- [Milagros Medina, Patricia Ferreira, Marta Martínez Júlvez](http://bifi.es), BIFI-Universidad de Zaragoza 
+- the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
+- the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
+- Ensembl Plants, Gramene, UniProt and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
+<!--- [Jesús I Martínez](http://www.unizar.es/icma/depart/epr/epr.htm), ICMA-CSIC-Universidad de Zaragoza 
+Dra. Inés García-Rubio, Centro Universitario de la Defensa (CUD), Zaragoza. http://cud.unizar.es/inesgrubio-->
+
+
+<!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
+
+<!--Drs. José A. Navarro, José Mª Ortega, Mercedes Roncel, IBVF-CSIC-Universidad de Sevilla, Sevilla. http://www.ibvf.csic.es/category/l2/l2g8-transferencia-de-electrones-en-sistemas-biol%C3%B3gicos-0
+
+Prof. Dr. Keith Dunker, Indiana University, Indianapolis, EEUU. http://compbio.iupui.edu/people/details/8
+
+Prof. Dr. Karl Niklas, College of Agriculture and Life Sciences, Cornell University, EEUU. https://plantbio.cals.cornell.edu/people/karl-niklas
+
+Dr. Ramón Hurtado, BIFI-Universidad de Zaragoza, Zaragoza. http://bifi.es/en/people/71-english-categories/research/biophysics/glycosyltransferases-and-hydrolases-involved-in-human-diseases-frontpage/glycosyltransferases-and-hydrolases-involved-in-human-diseases
+
+Dr. Jesús A. Gonzalo-Asensio, Universidad de Zaragoza, Zaragoza. http://genmico.unizar.es/ingles/team2.html
+
+Dras. Cecilia Gotor, Ángeles Aroca, Instituto de Bioquímica Vegetal y Fotosíntesis (IBVF, Universidad de Sevilla-CSIC), Sevilla. https://www.ibvf.us-csic.es/metabolismo-de-ciste%C3%ADna-y-se%C3%B1alizaci%C3%B3n
+
+Dr. Christian A. Olsen, Carlos Moreno-Yruela, Department of Drug Design and Pharmacology University of Copenhagen, https://drug.ku.dk/disciplines/peptides-and-proteins/olsen-lab/ -->
+
