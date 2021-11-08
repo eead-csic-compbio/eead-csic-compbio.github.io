@@ -17,17 +17,10 @@ title: Computational & structural biology group
 
 The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic.es) has interest in the following research topics:
 
--   genomics and transcriptional regulation of grasses
+-   (Pan)genomics and transcriptional regulation of grasses
 
--   evolutionary and structural analysis of transcription factors and disordered proteins in plants
+-   Pvolutionary and structural analysis of transcription factors, flavoenzymes and disordered proteins in plants
 
--   phylogenomic analyses and markers for breeding, molecular diagnostics and metagenomics
-
-
-Our collaborators include [Ana Casas](http://www.eead.csic.es/home/staffinfo?Id=67), [Ernesto Igartua](http://www.eead.csic.es/home/staffinfo?Id=69), [Pilar Catalán](http://bifi.es/bioflora/research-team/profile1.html), 
-[Pablo Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/),
-the [RSAT team](http://rsat.eead.csic.es/plants/people.php), 
-and the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences).
 
 ![](pics/EEAD.jpg)
 
