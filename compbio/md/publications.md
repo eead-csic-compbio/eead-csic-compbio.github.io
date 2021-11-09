@@ -50,7 +50,7 @@ title: Computational & structural biology group publications
     ([PDF](http://link.springer.com/protocol/10.1007%2F978-1-4939-6396-6_17),
     [author's PDF](https://digital.csic.es/handle/10261/136262))</li>
 
-<li>**Yruela I**(2016) Las proteínas dúctiles. Editorial CSIC
+<li>**Yruela I** (2016) Las proteínas dúctiles. Editorial CSIC
     y Catarata. ISBN: 978-84-00-10055-1. Pages: 94
     ([comprar](http://editorial.csic.es/publicaciones/libros/12685/978-84-00-10055-1/las-proteinas-ductiles.html))</li>
 
