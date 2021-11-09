@@ -1,23 +1,23 @@
 ---
-title: Computational & structural biology group teaching
+title: Computational & structural biology outreach
 ---
 
 <table align="center" width=100%>
   <tr>
-    <td align="center"><b>[Home](index.html)</b></td>
-    <td align="center"><b>[Members](staff.html)</b></td>
-    <td align="center"><b>[Publications](publications.html)</b></td>
-    <td align="center"><b>[Software](software.html)</b></td>
-    <td align="center"><b>[Material educativo](matdidactico.html)</b></td>
-    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a></td>
+    <td align="center"><b>[Home](index.html)</b>&nbsp;</td>
+    <td align="center"><b>[Members](staff.html)</b>&nbsp;</td>
+    <td align="center"><b>[Publications](publications.html)</b>&nbsp;</td>
+    <td align="center"><b>[Software](software.html)</b>&nbsp;</td>
+    <td align="center"><b>[Material educativo](matdidactico.html)</b>&nbsp;</td>
+    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a>&nbsp;</td>
     <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
   </tr>
 </table>
 
 
-### Material propio
+### Material educativo propio
 
-* [#!/perl/bioinfo](http://bioinfoperl.blogspot.com/): una bitácora sobre programación en bioinformática 
+* [#!/perl/bioinfo](http://bioinfoperl.blogspot.com/): una bitácora sobre programación en bioinformática (2010-)
 
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020)
 
@@ -34,14 +34,12 @@ title: Computational & structural biology group teaching
 * [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
 (2008-18) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
+* Alineamiento de secuencias, estructura secundaria, desorden y filogenias de proteínas (2018) [[PDF](http://digital.csic.es/handle/10261/117608)]
+
 * [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica/) (2004-17)
     
-<!--[Alineamiento de secuencias, estructura secundaria, desorden y filogenias de
-proteínas](http://www.eead.csic.es/compbio/material/alineafilog/) (2018)
-[![](./pics/diskette.png)](http://digital.csic.es/handle/10261/117608) -->
-<!--[Curso sobre modelado comparativo de proteínas](http://www.eead.csic.es/compbio/material/modelado_comparativo)
-(2004-2013)
-[![](./pics/diskette.png)](http://digital.csic.es/handle/10261/59335) -->
+* Curso sobre modelado comparativo de proteínas (2004-2013) [[PDF](http://digital.csic.es/handle/10261/59335)]
+
 <!--[Computational analysis of regulatory
 proteins](http://www.eead.csic.es/compbio/material/regulatory_proteins)
 (2013) -->
@@ -54,17 +52,43 @@ Rocks](http://www.eead.csic.es/compbio/material/programacion_rocks)
 [Paseo por la
 bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 ([Escuela Nacional Preparatoria](http://dgenp.unam.mx)/UNAM 2007)
-[La filosofía *open source* en la
-bioinformática](http://www.aragoninvestiga.org/La-filosofia-open-source-en-la-bioinformatica/)
-(2009) -->
+-->
 
-### Enlaces
+### Divulgación
 
-* [Reportaje del programa Lab24](http://rtve.es/v/4467805?t=09m16s) sobre
-nuestro trabajo en genómica de gramíneas 
+* Yruela I (2021) Cómo encajar las debilidades y las fortalezas de la ciencia durante la pandemia. [The Conversation-E](https://theconversation.com/como-encajar-las-debilidades-y-las-fortalezas-de-la-ciencia-durante-la-pandemia-154909) | [English version](https://network.febs.org/posts/how-do-the-weaknesses-and-strengths-of-science-fit-together-during-the-pandemic) 
+
+* Yruela I (2021) Biología cuántica. [Revista SEBBM 209: 6-7](https://revista.sebbm.es/pdf.php?id=805)
+
+* Yruela I (2021) La multicelularidad fue una de las mayores innovaciones de la evolución: ¿cómo se originó? [The Conversation-E](https://theconversation.com/la-multicelularidad-fue-una-de-las-mayores-innovaciones-de-la-evolucion-como-se-origino-161629) | [English version](https://network.febs.org/posts/how-did-multicellularity-originate-mechanisms-explaining-a-decisive-evolutionary-innovation)
+
+* Yruela I (2020) El papel de las proteínas dúctiles en la evolución y en las enfermedades. [Programa de radio](https://www.ivoox.com/proteinas-ductiles-evolucion-las-audios-mp3_rf_62618249_1.html) "Enfermedades raras" 17 diciembre 2020
+
+* Yruela I (2020) SARS-CoV-2: su infectividad y ductilidad son una puerta abierta a nuevos tratamientos. [The Conversation-E](https://theconversation.com/sars-cov-2-su-infectividad-y-ductilidad-son-una-puerta-abierta-a-nuevos-tratamientos-149887) | [English version](https://network.febs.org/posts/sars-cov-2-its-infectivity-and-ductility-are-an-open-door-to-new-treatments)
+
+* Yruela et al (2019) El fotosistema II: ensamblaje y función en realidad virtual, [App](https://digital.csic.es/handle/10261/196378) disponible en español, inglés y francés
+
+* Yruela I (2019) La adaptación de los cultivos a los cambios ambientales se explica con las sorprendentes proteínas dúctiles. [RICA Opiniones y Experiencias](http://rica.chil.me/post/la-adaptacion-de-los-cultivos-a-los-cambios-ambientales-se-explica-con-las-sorpr-271967)
+
+* Contreras-Moreira B (2019) Los genomas de las plantas que nos comemos. [RICA Opiniones y Experiencias](http://hdl.handle.net/10532/4720)
+
+* Yruela I (2019) Proteínas dúctiles: lo flexible es útil. Tercer Milenio: Suplemento de Ciencia [Heraldo de Aragón](https://www.heraldo.es/noticias/sociedad/2019/04/24/proteinas-ductiles-lo-flexible-es-util-1310686.html)
+
+* Cultivos innovadores / El nuevo MareNostrum 4" (2018) [Reportaje del programa de TVE Lab24](http://rtve.es/v/4467805?t=09m16s) sobre nuestro trabajo en genómica de gramíneas
+
+* Yruela I (2018) La importancia de salirse de la norma: las proteínas dúctiles. [Ciencia para llevar: el blog del CSIC](https://blogs.20minutos.es/ciencia-para-llevar-csic/2018/12/26)
+
+* Yruela I (2018) Las proteínas dúctiles contribuyen a la diversificación de las células. [SEBBM Divulgación. Acércate a nuestros científicos](http://dx.doi.org/10.18567/sebbmdiv_ANC.2018.11.1)
 
 * Entrevistas en programa [Ágora](https://www.cartv.es/aragonradio/programas/agora/podcast) sobre
 nuestro trabajo: 28/06/2017 (min.33) y 29/06/2017 (min.29) 
+
+* Contreras-Moreira B (2009) [La filosofía *open source* en la bioinformática](https://digital.csic.es/handle/10261/22507)
+
+</ol>
+
+
+### Otros enlaces
 
 * Material sobre filogenias moleculares de [Pablo Vinuesa](https://www.ccg.unam.mx/~vinuesa/Phylogeny_tutorials_PV.html)
 
