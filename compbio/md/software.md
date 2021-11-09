@@ -4,12 +4,11 @@ title: Computational & structural biology group software
 
 <table align="center" width=100%>
   <tr>
-    <td align="center"><b>[Home](index.html)</b></td>
-    <td align="center"><b>[Members](staff.html)</b></td>
-    <td align="center"><b>[Publications](publications.html)</b></td>
-    <td align="center"><b>[Software](software.html)</b></td>
-    <td align="center"><b>[Material educativo](matdidactico.html)</b></td>
-    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a></td>
+    <td align="center"><b>[Home](index.html)</b>&nbsp;</td>
+    <td align="center"><b>[Members](staff.html)</b>&nbsp;</td>
+    <td align="center"><b>[Publications](publications.html)</b>&nbsp;</td>
+    <td align="center"><b>[Software](software.html)</b>&nbsp;</td>
+    <td align="center"><b>[Material educativo](matdidactico.html)</b>&nbsp;</td>
     <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
   </tr>
 </table>
