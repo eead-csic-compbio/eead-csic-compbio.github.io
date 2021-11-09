@@ -7,6 +7,7 @@ use POSIX qw(strftime);
 
 my $BASEURL = 'https://www.eead.csic.es/compbio/';
 my @htmlfiles = glob("*.html");
+my @skipfiles = ( 'tfcompare.html', 'tfmodeller.html');
 
 print <<EOF;
 <?xml version="1.0" encoding="UTF-8"?>
@@ -15,22 +16,24 @@ EOF
 
 foreach my $file (@htmlfiles) {
   
-    my $url = $BASEURL . $file; 
+  next if(grep(/$file/,@skipfiles));
+  
+  my $url = $BASEURL . $file; 
     
-    # check modification time
-    my $last_mod_time = strftime("%Y-%m-%d",
-      localtime( (stat($file))[9] ));
+  # check modification time
+  my $last_mod_time = strftime("%Y-%m-%d",
+    localtime( (stat($file))[9] ));
     
-    # take care of special chars
-    $url =~ s/\s+$//;
-    $url =~ s/^\s+//;
-    $url =~ s/&/&amp;/;
+  # take care of special chars
+  $url =~ s/\s+$//;
+  $url =~ s/^\s+//;
+  $url =~ s/&/&amp;/;
     
-    print <<EOF;
-    <url>
-        <loc>$url</loc>
-        <lastmod>$last_mod_time</lastmod>
-    </url>
+  print <<EOF;
+  <url>
+      <loc>$url</loc>
+      <lastmod>$last_mod_time</lastmod>
+  </url>
 EOF
 }
 
