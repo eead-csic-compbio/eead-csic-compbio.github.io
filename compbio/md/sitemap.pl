@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 # based on https://gist.github.com/pdp7/9784888
+#
+# https://www.google.com/ping?sitemap=https://www.eead.csic.es/compbio/sitemap.xml
 
 use strict;
 use warnings;
