@@ -25,8 +25,6 @@ title: Computational & structural biology group publications
 
 <ol>
 
-<li>**Contreras-Moreira B** (2019) Los genomas de las plantas que nos comemos. RICA Opiniones y Experiencias. http://hdl.handle.net/10532/4720</li>
-
 <li>**Contreras-Moreira B** (2018) Algoritmos en Bioinformática Estructural.   [10.20350/digitalcsic/8544](https://doi.org/10.20350/digitalcsic/8544).</li>
 
 <li>**Contreras-Moreira B**, Castro-Mondragon J, Rioualen C,
