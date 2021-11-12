@@ -19,7 +19,7 @@ title: Computational & structural biology group software
 
 -   [RSAT::Plants](http://plants.rsat.eu): A plant-dedicated server for
     the analysis of regulatory sequences
--   [BARLEYMAP](http://floresta.eead.csic.es/barleymap/): a tool to
+-   [BARLEYMAP](https://floresta.eead.csic.es/barleymap/): a tool to
     search the position of barley genetic markers on the Barley Physical
     Map and the POPSEQ map
 -   [footprintDB](http://floresta.eead.csic.es/footprintdb/): a database
