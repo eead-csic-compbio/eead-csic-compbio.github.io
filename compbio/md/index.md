@@ -18,8 +18,7 @@ title: Computational & structural biology group
 The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic.es) has interest in the following research topics:
 
 - (Pan)genomics and transcriptional regulation of grasses
-
-- Evolutionary and structural analysis of flavoenzymes, hemoproteins, transcription factors and ductile/disordered regions and proteins in plants
+- Evolutionary and structural analysis of ductile proteins (IDPs) and flavoenzymes
 
 
 ![](pics/EEAD.jpg)
