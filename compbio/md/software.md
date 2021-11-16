@@ -27,11 +27,6 @@ title: Computational & structural biology group software
     interfaces
 -   [3D-footprint](http://floresta.eead.csic.es/3dfootprint/): a
     database for the structural analysis of protein-DNA complexes
-<!---   [TFmodeller](http://www.ccg.unam.mx/tfmodeller/): a server to build and analyse comparative models of DNA-binding proteins -->
--   [primers4clades](http://floresta.eead.csic.es/primers4clades/):
-    server for the design of primers for phylogenetic analyses based on
-    PCR amplifications, created in collaboration with [Pablo
-    Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/) (UNAM,México)
 
 ### Source code, binaries and Docker containers
 
@@ -58,9 +53,10 @@ title: Computational & structural biology group software
     (Linux 64bit Perl scripts, binaries,
     [manual](http://www.eead.csic.es/compbio/soft/manual_dnaprot.pdf),
     [PDF](http://www.biomedcentral.com/1471-2105/9/436))
+-   [primers4clades](https://hub.docker.com/repository/docker/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
 -   [TFcompare](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfcompare): a tool for
-    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes [legacy Docker]
--   [TFmodeller](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes [legacy Docker]
+    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**
+-   [TFmodeller](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
     
 
 ### Assorted utilities 
