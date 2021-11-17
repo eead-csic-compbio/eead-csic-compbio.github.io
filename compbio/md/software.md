@@ -53,10 +53,10 @@ title: Computational & structural biology group software
     (Linux 64bit Perl scripts, binaries,
     [manual](http://www.eead.csic.es/compbio/soft/manual_dnaprot.pdf),
     [PDF](http://www.biomedcentral.com/1471-2105/9/436))
--   [primers4clades](https://hub.docker.com/repository/docker/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
--   [TFcompare](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfcompare): a tool for
+-   [primers4clades](https://hub.docker.com/r/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
+-   [TFcompare](https://hub.docker.com/r/eeadcsiccompbio/tfcompare): a tool for
     structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**
--   [TFmodeller](https://hub.docker.com/repository/docker/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
+-   [TFmodeller](https://hub.docker.com/r/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
     
 
 ### Assorted utilities 
