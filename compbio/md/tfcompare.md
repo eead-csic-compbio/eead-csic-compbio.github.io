@@ -19,7 +19,7 @@ title: Computational & structural biology group software
 
 TFcompare is a tool for structural alignment of DNA motifs and protein domains from DNA-binding protein complexes.
 
-It is now available as a Docker container at https://hub.docker.com/repository/docker/eeadcsiccompbio/tfcompare 
+It is now available as a Docker container at https://hub.docker.com/r/eeadcsiccompbio/tfcompare 
 
 This replaces the Web server at http://floresta.eead.csic.es/tfcompare 
 

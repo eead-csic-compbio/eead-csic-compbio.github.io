@@ -19,7 +19,7 @@ title: Computational & structural biology group software
 
 TFcompare is a tool for comparative modelling of protein-DNA complexes.
 
-It is now available as a Docker container at https://hub.docker.com/repository/docker/eeadcsiccompbio/tfmodeller 
+It is now available as a Docker container at https://hub.docker.com/r/eeadcsiccompbio/tfmodeller 
 
 This replaces the Web server at www.ccg.unam.mx/tfmodeller
 

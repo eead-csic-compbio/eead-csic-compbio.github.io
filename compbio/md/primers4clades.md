@@ -19,7 +19,7 @@ title: Computational & structural biology group software
 
 PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages.
 
-It is now available as a Docker container at https://hub.docker.com/repository/docker/csicunam/primers4clades
+It is now available as a Docker container at https://hub.docker.com/r/csicunam/primers4clades
 
 This legacy container replaces the web servers http://floresta.eead.csic.es/primers4clades & http://maya.ccg.unam.mx/primers4clades
 
