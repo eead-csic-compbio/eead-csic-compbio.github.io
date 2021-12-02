@@ -6,3 +6,7 @@ sequence at [Ensembl Plants](https://plants.ensembl.org/index.html) release 52.
 
     bmap_align --maps=MorexV3 -g HC2017.fna -u > HC2017.bmap 
     bmap_align --maps=MorexV3 -g LC2017.fna -u > HC2017.bmap
+
+The column names of the TSV file are:
+
+IBSCv2 gene, MorexV3 gene, v2 chr, v2 start v2 end, v3 chr, v3 start, v3 end

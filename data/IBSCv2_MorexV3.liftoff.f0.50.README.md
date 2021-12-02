@@ -11,4 +11,6 @@ v2 and v3 toplevel genomic sequences at [Ensembl Plants](https://plants.ensembl.
     bedtools intersect -sorted -b Hordeum_vulgare.IBSC_v2.liftoof.gff -a Hv_Morex.pgsb.Jul2020.HC.gene.gff -wo -f 0.5
     bedtools intersect -sorted -b Hordeum_vulgare.IBSC_v2.liftoof.gff -a Hv_Morex.pgsb.Jul2020.LC.gene.gff -wo -f 0.5
 
+The column names of the TSV file are:
 
+IBSCv2 gene, MorexV3 gene, v2 chr, v2 start v2 end, v3 chr, v3 start, v3 end
