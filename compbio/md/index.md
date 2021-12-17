@@ -23,12 +23,9 @@ The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic
 
 ![](pics/EEAD.jpg)
 
-    Laboratorio de Biología Computacional y Estructural
+    Grupo de Biología Computacional y Estructural
     Estación Experimental Aula Dei-CSIC
     Av. Montañana 1.005, 50059 Zaragoza (Spain)
     phone (+34) 976716089
     
 <a href="http://maps.google.es/maps/ms?ie=UTF8&hq=&hnear=Zaragoza,+Aragón&t=h&hl=es&msa=0&msid=103443040866049081278.0004716b3cad43164d2cf&ll=41.687912,-0.828438&spn=0.08653,0.222816&z=13"><img src="pics/bici.png"></a>  
-
-<a href="https://www.csic.es"><img src="pics/logoCSIC.jpg"></a>
-
