@@ -9,8 +9,8 @@ title: Computational & structural biology group software
     <td align="center"><b>[Publications](https://www.eead.csic.es/compbio/publications.html)</b>&nbsp;</td>
     <td align="center"><b>[Software](https://www.eead.csic.es/compbio/software.html)</b>&nbsp;</td>
     <td align="center"><b>[Material educativo](https://www.eead.csic.es/compbio/matdidactico.html)</b>&nbsp;</td>
-    <td align="center"><a href="http://bioinfoperl.blogspot.com"><b>Blog</b></a>&nbsp;</td>
-    <td align="center"><a href="http://www.eead.csic.es"><img src="pics/logoEEAD.jpeg"></a></td>
+    <td align="center"><a href="https://bioinfoperl.blogspot.com"><b>Blog</b></a>&nbsp;</td>
+    <td align="center"><a href="https://www.eead.csic.es"><img src="pics/logoEEAD.png"></a></td>
   </tr>
 </table>
 
