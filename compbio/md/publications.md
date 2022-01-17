@@ -25,6 +25,8 @@ title: Computational & structural biology group publications
 
 <ol>
 
+<li>**Contreras-Moreira B**, Naamati G, Rosello M, Allen JE, Hunt SE, Muffato M, Gall A, Flicek P (2022) Scripting Analyses of Genomes in Ensembl Plants. In: Edwards D. (eds) Plant Bioinformatics. Methods in Molecular Biology, vol 2443. Humana, New York, NY. [10.1007/978-1-0716-2067-0_2]( https://doi.org/10.1007/978-1-0716-2067-0_2).</li>
+
 <li>**Contreras-Moreira B** (2018) Algoritmos en Bioinformática Estructural.   [10.20350/digitalcsic/8544](https://doi.org/10.20350/digitalcsic/8544).</li>
 
 <li>**Contreras-Moreira B**, Castro-Mondragon J, Rioualen C,
