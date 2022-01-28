@@ -23,6 +23,7 @@ title: Computational & structural biology group members
     (Sept2015-Oct2016, Apr2018-, PhD co-supervised by Yolanda Gogorcena)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-,
     PhD co-supervised by Pilar Catalán)
+-   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at NMBU
 -   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from IAMZ) 
 
 ### Previous members / visitors
@@ -49,7 +50,7 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
     benchmark](https://github.com/eead-csic-compbio/get_homologues/tree/master/user_utils/normalize))
 -   Uriel Alonso Hurtado Páez (Jul2017-Nov2017, PhD Candidate at
     Universidad Nacional, Colombia)
--   [Teshome Dagne Mulugeta](https://www.researchgate.net/profile/Teshome-Mulugeta) (Abr2017-May2017,Sept2017-Nov2017), PhD Candidate at NMBU,  [summary](https://norbis.w.uib.no/learning-advanced-analysis-of-gene-regulation-in-zaragoza)
+-   [Teshome Dagne Mulugeta](https://www.researchgate.net/profile/Teshome-Mulugeta) (Abr2017-May2017,Sept2017-Nov2017), [summary](https://norbis.w.uib.no/learning-advanced-analysis-of-gene-regulation-in-zaragoza)
 -   Eduardo Candeal (Abr2016-May2016; Sept2016-Jan2017), employee of
     [BDR diagnostics](http://www.bdrdiagnostics.com)
 -   María Jesús García-Pereira (Sept2013-Sept2014)\
