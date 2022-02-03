@@ -112,6 +112,7 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
 - the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
 - the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
 - Ensembl Plants, Gramene, UniProt and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
+- the partners of [GENDIBAR](https://www.era-learn.eu/network-information/networks/prima/section-2-call-multi-topic-2018/utilization-of-local-genetic-diversity-to-understand-and-exploit-barley-adaptation-to-harsh-environments-and-for-pre-breeding)
 
 
 <!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
