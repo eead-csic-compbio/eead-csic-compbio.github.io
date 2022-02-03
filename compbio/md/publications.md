@@ -1,5 +1,5 @@
 ---
-title: Computational & structural biology group publications
+title: Computational & structural biology publications
 ---
 
 <table align="center" width=100%>
