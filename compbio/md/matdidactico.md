@@ -101,3 +101,5 @@ Rioja)
 (*Nature*)
 
 * [Código de Buenas Prácticas Científicas del CSIC](http://bibliotecas.csic.es/es/codigo.buenas%20practicas-cientificas-csic)
+
+* [CSIC in the SCIMAGO ranking](https://www.scimagoir.com/institution.php?idp=32011)
