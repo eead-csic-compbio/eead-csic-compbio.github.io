@@ -2,3 +2,15 @@ Placeholder for the website source of the [Computational & Structural Biology gr
 and a few assorted [scripts](./scripts) and [data](./data) files.
 
 See the [repositories](https://github.com/eead-csic-compbio?tab=repositories) for source code and documentation.
+
+```mermaid
+  graph TD;
+      github-->repositories;
+      github-->github.io
+      github.io-->scripts;
+      github.io-->data;
+      github.io-->compbio/md;
+```
+
+
+
