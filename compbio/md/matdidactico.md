@@ -56,6 +56,8 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 ### Divulgación
 
+* Contreras-Moreira B (2022) Investigadores aragoneses diseñan una herramienta para identificar subgenomas vegetales "fantasma". [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/huesca/2022/03/01/investigadores-aragoneses-disenan-una-herramienta-para-identificar-subgenomas-vegetales-fantasma-1556672.html)
+
 * Yruela I (2021) Cómo encajar las debilidades y las fortalezas de la ciencia durante la pandemia. [The Conversation-E](https://theconversation.com/como-encajar-las-debilidades-y-las-fortalezas-de-la-ciencia-durante-la-pandemia-154909) | [English version](https://network.febs.org/posts/how-do-the-weaknesses-and-strengths-of-science-fit-together-during-the-pandemic) 
 
 * Yruela I (2021) Biología cuántica. [Revista SEBBM 209: 6-7](https://revista.sebbm.es/pdf.php?id=805)
