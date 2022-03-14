@@ -25,6 +25,7 @@ title: Computational & structural biology group members
     PhD co-supervised by Pilar Catalán)
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at NMBU
 -   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from IAMZ) 
+-   Gonzalo Díaz Elías (Mar2022-, undergraduate from USJ)
 
 ### Previous members / visitors
 
