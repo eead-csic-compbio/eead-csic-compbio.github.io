@@ -22,10 +22,11 @@ title: Computational & structural biology group members
 -   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
     (Sept2015-Oct2016, Apr2018-, PhD co-supervised by Yolanda Gogorcena)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-,
-    PhD co-supervised by Pilar Catalán)
--   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at NMBU
--   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from IAMZ) 
--   Gonzalo Díaz Elías (Mar2022-, undergraduate from USJ)
+    PhD co-supervised by Pilar Catalán at [UZaragoza](https://eps.unizar.es))
+-   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from [IAMZ](https://www.iamz.ciheam.org)) 
+-   Gonzalo Díaz Elías (Mar2022-), undergraduate from [USJ](https://www.usj.es)
+-   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 
 ### Previous members / visitors
 

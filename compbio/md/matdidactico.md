@@ -56,7 +56,9 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 ### Divulgación
 
-* Contreras-Moreira B (2022) Investigadores aragoneses diseñan una herramienta para identificar subgenomas vegetales "fantasma". [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/huesca/2022/03/01/investigadores-aragoneses-disenan-una-herramienta-para-identificar-subgenomas-vegetales-fantasma-1556672.html)
+* Contreras-Moreira B (2022) Investigadores aragoneses diseñan una herramienta para identificar subgenomas vegetales "fantasma". [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/huesca/2022/03/01/investigadores-aragoneses-disenan-una-herramienta-para-identificar-subgenomas-vegetales-fantasma-1556672.html) ([artículo original](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15650))
+
+* Yruela I (2022) ¿Se puede ser religioso y aceptar la evolución?  [The Conversation-E](https://theconversation.com/se-puede-ser-religioso-y-aceptar-la-evolucion-179870) 
 
 * Yruela I (2021) Cómo encajar las debilidades y las fortalezas de la ciencia durante la pandemia. [The Conversation-E](https://theconversation.com/como-encajar-las-debilidades-y-las-fortalezas-de-la-ciencia-durante-la-pandemia-154909) | [English version](https://network.febs.org/posts/how-do-the-weaknesses-and-strengths-of-science-fit-together-during-the-pandemic) 
 
