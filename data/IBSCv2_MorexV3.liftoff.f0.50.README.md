@@ -1,5 +1,5 @@
 
-TSV file [IBSCv2_MorexV3.liftoff.f0.50.tsv](./IBSCv2_MorexV3.liftoff.f0.50.tsv) contains mappings of gene IDs from barley IBSCv2  
+TSV file [IBSCv2_MorexV3.liftoff.f0.50.tsv](./IBSCv2_MorexV3.liftoff.f0.50.tsv) contains mappings of gene IDs from barley IBSCv2 (2017)  
 to MorexV3 gene models. These were produced by:
 + Lifting over v2 genes with [Liftoff](https://github.com/agshumate/Liftoff) using the 
 v2 and v3 toplevel genomic sequences at [Ensembl Plants](https://plants.ensembl.org/index.html) release 52. 
