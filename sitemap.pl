@@ -7,7 +7,7 @@ use strict;
 use warnings;
 use POSIX qw(strftime);
 
-my $BASEURL = 'https://www.eead.csic.es/compbio/';
+my $BASEURL = 'https://eead-csic-compbio.github.io/';
 my @htmlfiles = glob("*.html");
 my @skipfiles = ( 'tfcompare.html', 'tfmodeller.html');
 
