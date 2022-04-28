@@ -1,5 +1,5 @@
 ---
-title: Computational & structural biology software
+title: "Computational & structural biology software"
 ---
 
 <table align="center" width=100%>
