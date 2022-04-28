@@ -1,5 +1,4 @@
-Placeholder for the website source of the [Computational & Structural Biology group](http://www.eead.csic.es/compbio) 
-and a few assorted [scripts](./scripts) and [data](./data) files.
+Website of the [Computational & Structural Biology group](https://eead-csic-compbio.github.io) 
 
 See the [repositories](https://github.com/eead-csic-compbio?tab=repositories) for source code and documentation.
 
@@ -9,6 +8,8 @@ See the [repositories](https://github.com/eead-csic-compbio?tab=repositories) fo
       github-->github.io
       github.io-->scripts;
       github.io-->data;
+      github.io-->suppl;
+      github.io-->pics;
       github.io-->compbio/md;
 ```
 
