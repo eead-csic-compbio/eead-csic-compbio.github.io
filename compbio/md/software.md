@@ -48,15 +48,13 @@ title: Computational & structural biology software
     protocol](https://github.com/eead-csic-compbio/chloroplast_assembly_protocol):
     set of scripts for the assembly of chloroplast genomes out of
     whole-genome sequencing reads
--   [DNAPROT](./soft/dnaprot.php): takes protein-DNA complex in PDB
-    format and calculates structure-based position weight matrices
-    (Linux 64bit Perl scripts, binaries,
-    [manual](http://www.eead.csic.es/compbio/soft/manual_dnaprot.pdf),
-    [PDF](http://www.biomedcentral.com/1471-2105/9/436))
+-   [DNAPROT](https://hub.docker.com/r/eeadcsiccompbio/dnaprot): takes protein-DNA complex in PDB
+    format and calculates structure-based position weight matrices ([manual](suppl/manual_dnaprot.pdf)), **[legacy Docker]**
 -   [primers4clades](https://hub.docker.com/r/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
 -   [TFcompare](https://hub.docker.com/r/eeadcsiccompbio/tfcompare): a tool for
     structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**
 -   [TFmodeller](https://hub.docker.com/r/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
+
     
 
 ### Assorted utilities 
@@ -70,7 +68,12 @@ title: Computational & structural biology software
 -   [split\_blast](http://bioinfoperl.blogspot.com.es/2013/04/splitblastpl-real-multicore-blast.html): Perl script to take advantage of multi-core CPUs for doing BLAST searches that fit in RAM (also part of GET\_HOMOLOGUES)
 -   [addCDD2genbank.pl](https://github.com/eead-csic-compbio/eead-csic-compbio.github.io/blob/master/scripts/addCDD2genbank.pl): adds domain annotations from CDD to protein sequences contained in CDS features within input GenBank file
 -   [xmfa2fasta.pl](https://github.com/eead-csic-compbio/eead-csic-compbio.github.io/blob/master/scripts/xmfa2fasta.pl):    reads in XMFA file produced by progressive MAUVE and produces a multi-FASTA file containing a multiple sequence alignment
--   [barleyGO](https://github.com/eead-csic-compbio/barleyGO): annotates barley sequences (Perl scripts, C++ source, Linux 64bit binaries)
+-   see [all scripts](https://github.com/eead-csic-compbio/eead-csic-compbio.github.io/tree/master/scripts)
+
+### Data files
+
+Available [here](https://github.com/eead-csic-compbio/eead-csic-compbio.github.io/tree/master/data)
+
 
 ### GitHub repositories
 
