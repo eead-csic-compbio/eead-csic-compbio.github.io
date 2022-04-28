@@ -49,12 +49,11 @@ title: Computational & structural biology software
     set of scripts for the assembly of chloroplast genomes out of
     whole-genome sequencing reads
 -   [DNAPROT](https://hub.docker.com/r/eeadcsiccompbio/dnaprot): takes protein-DNA complex in PDB
-    format and calculates structure-based position weight matrices ([manual](suppl/manual_dnaprot.pdf)), **[legacy Docker]**
+    format and calculates structure-based position weight matrices ([manual](suppl/manual_dnaprot.pdf)), **[Docker]**
 -   [primers4clades](https://hub.docker.com/r/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
 -   [TFcompare](https://hub.docker.com/r/eeadcsiccompbio/tfcompare): a tool for
     structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**
 -   [TFmodeller](https://hub.docker.com/r/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
-
     
 
 ### Assorted utilities 
