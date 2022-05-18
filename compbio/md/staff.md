@@ -17,7 +17,7 @@ title: Computational & structural biology group members
 
 ### Current members of the lab 
 
--   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X) [Twitter](https://twitter.com/BrunoContrerasM) (funded by [ARAID](https://www.araid.es) 2007-2018)
+-   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X) [Twitter](https://twitter.com/BrunoContrerasM) (funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [Twitter](https://twitter.com/InmaYruela)
 -   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
     (Sept2015-Oct2016, Apr2018-, PhD co-supervised by Yolanda Gogorcena)
