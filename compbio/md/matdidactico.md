@@ -15,11 +15,13 @@ title: Computational & structural biology outreach
 </table>
 
 
-### Material educativo propio
+### Material educativo propio / teaching materials
 
 * [#!/perl/bioinfo](http://bioinfoperl.blogspot.com/): una bitácora sobre programación en bioinformática (2010-)
 
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020)
+
+* [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
 
 * [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021)
 
@@ -59,6 +61,8 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 * Contreras-Moreira B (2022) Investigadores aragoneses diseñan una herramienta para identificar subgenomas vegetales "fantasma". [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/huesca/2022/03/01/investigadores-aragoneses-disenan-una-herramienta-para-identificar-subgenomas-vegetales-fantasma-1556672.html) ([artículo original](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15650))
 
 * Yruela I (2022) ¿Se puede ser religioso y aceptar la evolución?  [The Conversation-E](https://theconversation.com/se-puede-ser-religioso-y-aceptar-la-evolucion-179870) 
+
+* Contreras-Moreira B & Welcome Genome Campus collaborators (2021) [DNA in the Garden Trail](https://www.botanic.cam.ac.uk/education-learning/trails/dnatrail)
 
 * Yruela I (2021) Cómo encajar las debilidades y las fortalezas de la ciencia durante la pandemia. [The Conversation-E](https://theconversation.com/como-encajar-las-debilidades-y-las-fortalezas-de-la-ciencia-durante-la-pandemia-154909) | [English version](https://network.febs.org/posts/how-do-the-weaknesses-and-strengths-of-science-fit-together-during-the-pandemic) 
 
