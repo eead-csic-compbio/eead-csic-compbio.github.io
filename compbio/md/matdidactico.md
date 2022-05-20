@@ -62,7 +62,7 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 * Yruela I (2022) ¿Se puede ser religioso y aceptar la evolución?  [The Conversation-E](https://theconversation.com/se-puede-ser-religioso-y-aceptar-la-evolucion-179870) 
 
-* Contreras-Moreira B & Welcome Genome Campus collaborators (2021) [DNA in the Garden Trail](https://www.botanic.cam.ac.uk/education-learning/trails/dnatrail)
+* Contreras-Moreira B & Welcome Genome Campus collaborators (2021) [DNA in the Garden Trail](https://www.botanic.cam.ac.uk/education-learning/trails/dnatrail) [[app](https://guidemap.to/cubgdna/#hello)]
 
 * Yruela I (2021) Cómo encajar las debilidades y las fortalezas de la ciencia durante la pandemia. [The Conversation-E](https://theconversation.com/como-encajar-las-debilidades-y-las-fortalezas-de-la-ciencia-durante-la-pandemia-154909) | [English version](https://network.febs.org/posts/how-do-the-weaknesses-and-strengths-of-science-fit-together-during-the-pandemic) 
 
