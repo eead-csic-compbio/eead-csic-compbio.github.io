@@ -39,6 +39,8 @@ title: Computational & structural biology outreach
 * Alineamiento de secuencias, estructura secundaria, desorden y filogenias de proteínas (2018) [[PDF](http://digital.csic.es/handle/10261/117608)]
 
 * [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica/) (2004-17)
+
+* [Structure-based analysis of transcriptional regulation](http://jvanheld.github.io/cisreg_course/structure/struct-regulation.html) (2015)
     
 * Curso sobre modelado comparativo de proteínas (2004-2013) [[PDF](http://digital.csic.es/handle/10261/59335)]
 
