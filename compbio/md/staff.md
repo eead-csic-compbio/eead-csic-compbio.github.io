@@ -27,6 +27,7 @@ title: Computational & structural biology group members
 -   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-, MSc from [IAMZ](https://www.iamz.ciheam.org)) 
 -   Gonzalo Díaz Elías (Mar2022-), undergraduate from [USJ](https://www.usj.es)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
+-   [Nikola Korinkova](https://www.researchgate.net/profile/Nikola-Korinkova) (Sep2022-), visiting PhD student from [Palacký University in Olomouc](https://www.upol.cz/en)
 
 ### Previous members / visitors
 
