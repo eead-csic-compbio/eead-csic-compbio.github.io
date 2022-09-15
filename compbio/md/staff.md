@@ -108,13 +108,14 @@ Some pics of the group: [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrup
 
 - [Ana Casas](http://www.eead.csic.es/home/staffinfo?Id=67), [Ernesto Igartua](http://www.eead.csic.es/home/staffinfo?Id=69), Estación Experimental de Aula Dei-CSIC
 - [Pilar Catalán](http://bifi.es/bioflora/research-team/profile1.html), EPS Huesca, Universidad de Zaragoza
+- [Antonio Manzaneda](https://www.researchgate.net/profile/Antonio-Manzaneda), Universidad de Jaén
 - [Pablo Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/), Centro de Ciencias Genómicas-UNAM, México
 - [Milagros Medina, Patricia Ferreira, Marta Martínez Júlvez](http://bifi.es), BIFI-Universidad de Zaragoza 
 - [Jesús I Martínez](http://www.unizar.es/icma/depart/epr/epr.htm), ICMA-CSIC-Universidad de Zaragoza 
 - [Inés García-Rubio](http://cud.unizar.es/inesgrubio), Centro Universitario de la Defensa, Zaragoza 
 - the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
 - the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
-- Ensembl Plants, Gramene, UniProt and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
+- [Ensembl Plants](https://plants.ensembl.org), [Gramene](https://www.gramene.org), [UniProt](https://www.uniprot.org) and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
 - the partners of [GENDIBAR](https://www.era-learn.eu/network-information/networks/prima/section-2-call-multi-topic-2018/utilization-of-local-genetic-diversity-to-understand-and-exploit-barley-adaptation-to-harsh-environments-and-for-pre-breeding)
 
 
