@@ -39,14 +39,13 @@ Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrup
     [PhD](https://dialnet.unirioja.es/servlet/tesis?codigo=120706)
     co-directed by A Casas)
 -   [Rubén Sancho Cohen](https://www.researchgate.net/profile/Ruben-Sancho)
-    (Jan2014-Sep2018, [PhD](https://digital.csic.es/handle/10261/174792) co-directed with Pilar Catalán)
+    (Jan2014-Sep2018, [PhD](https://digital.csic.es/handle/10261/174792) co-directed by Pilar Catalán)
 -   [Francesc Montardit
     Tardá](http://www.eead.csic.es/home/staffinfo?Id=587)
     (Sept2017-Oct2018, MSc co-directed by Y Gogorcena)
--   [Dr. Valerie de
-    Anda](https://scholar.google.es/citations?user=Bom_ztkAAAAJ&hl=es)
-    (Jul2014, Oct2016-Aug2018, PhD Candidate at Inst
-    Ecología-UNAM, México)
+-   [Valerie de
+    Anda Torres](https://scholar.google.es/citations?user=Bom_ztkAAAAJ&hl=es)
+    (Jul2014, Oct2016-Aug2018, [PhD](http://132.248.9.195/ptd2018/junio/0775359/Index.html) at Inst Ecología-UNAM, México)
 -   Álvaro Rodríguez del Río (Feb2018-Jul2018, [MSc RU
     Groningen](http://fse.studenttheses.ub.rug.nl/18035/), local
     supervisors: B Contreras & AM Casas, see [bitscore normalization
@@ -60,11 +59,11 @@ Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrup
     Postdoc contract.
 -   Edgar Fernández Alons (Feb-Dec 2014)\
     MSc project supervised by I Yruela.
--   [Dr. Pablo
+-   [Pablo
     Vinuesa](https://scholar.google.es/citations?user=8IpvaDQAAAAJ&hl=es)
     (Centro de Ciencias Genómicas, México, Jun2014)\
     Two-week visit as part of bilateral funding E2014MX010.
--   [Dr. Edgardo
+-   [Edgardo
     Jofré](https://www.researchgate.net/profile/Edgardo_Jofre) (UNRC
     Argentina, Sep2013)\
     One-month visit as part of bilateral funding PRI-AIBAR-2011-0840.
@@ -72,11 +71,11 @@ Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrup
     Student project on 'Transcriptional regulation of chloroplast
     genes', supported by [CSIC
     JAE-intro](https://sede.csic.gob.es/jae-intro-cp-2013) program.
--   [Dr. Daniela
+-   [Daniela
     Medeot](https://www.researchgate.net/profile/Daniela_Medeot) (UNRC
     Argentina, Jun-Jul2013)\
     One-month visit as part of bilateral funding PRI-AIBAR-2011-0840.
--   [Dr. Álvaro
+-   [Álvaro
     Sebastián](https://scholar.google.com/citations?user=LTAbijoAAAAJ)
     (Sept2009-Dec2012)\
     Postdoc hired in STREG project, founder of
@@ -85,9 +84,9 @@ Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrup
     Two-month visit as part of bilateral funding PRI-AIBAR-2011-0840.
 -   Fernando Rossi (UNRC Argentina, Jun2012)\
     One-month visit as part of bilateral funding PRI-AIBAR-2011-0840.
--   Dr. Lorenz Bülow (TU Braunschweig, Aug-Sep2011)\
+-   Lorenz Bülow (TU Braunschweig, Aug-Sep2011)\
     Short-term visit during the STREG project.
--   Dr. José Ramón Blas Pastor (Universidad de Castilla La Mancha,
+-   José Ramón Blas Pastor (Universidad de Castilla La Mancha,
     Mar2011)\
     Short visit to learn sequence analysis skills for his studies on
     molecular evolution, funded by [UCLM](http://www.crib.uclm.es).
