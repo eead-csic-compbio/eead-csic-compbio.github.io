@@ -33,13 +33,14 @@ title: Computational & structural biology group members
 
 Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, MSc from [IAMZ](https://www.iamz.ciheam.org)) 
 -   [Carlos P.
     Cantalapiedra](https://scholar.google.com/citations?user=fa8RszgAAAAJ)
     (Jul-Nov2010,Sep2011-Sep2015,Feb2016-Sep2018,
     [PhD](https://dialnet.unirioja.es/servlet/tesis?codigo=120706)
     co-directed by A Casas)
 -   [Rubén Sancho Cohen](https://www.researchgate.net/profile/Ruben-Sancho)
-    (Jan2014-Sep2018, PhD co-directed with Pilar Catalán)
+    (Jan2014-Sep2018, [PhD](https://digital.csic.es/handle/10261/174792) co-directed with Pilar Catalán)
 -   [Francesc Montardit
     Tardá](http://www.eead.csic.es/home/staffinfo?Id=587)
     (Sept2017-Oct2018, MSc co-directed by Y Gogorcena)
