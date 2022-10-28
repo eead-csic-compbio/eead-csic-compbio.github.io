@@ -32,7 +32,7 @@ title: Computational & structural biology group members
 
 Some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
--   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, MSc from [IAMZ](https://www.iamz.ciheam.org)) 
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, MSc from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
 -   [Carlos P.
     Cantalapiedra](https://scholar.google.com/citations?user=fa8RszgAAAAJ)
     (Jul-Nov2010,Sep2011-Sep2015,Feb2016-Sep2018,
