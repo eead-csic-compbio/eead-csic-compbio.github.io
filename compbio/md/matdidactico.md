@@ -19,6 +19,8 @@ title: Computational & structural biology outreach
 
 * [#!/perl/bioinfo](http://bioinfoperl.blogspot.com/): una bitácora sobre programación en bioinformática (2010-)
 
+* [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022)
+
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020)
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
@@ -26,8 +28,6 @@ title: Computational & structural biology outreach
 * [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021)
 
 * [Tuning promoter boundaries improves regulatory motif discovery in non-model plants: the peach example](https://eead-csic-compbio.github.io/coexpression_motif_discovery/peach/Tutorial.html) (2020)
-
-* [From genomes to pangenomes: understanding variation among individuals and species](http://eead-csic-compbio.github.io/get_homologues/tutorial/pangenome_tutorial.html) (2020)
 
 * Methods in biostatistics and bioinformatics: [notes](https://github.com/eead-csic-compbio/biostats_bioinfo) & [exercises](https://github.com/eead-csic-compbio/methods_biostats_bioinfo) (2019)
 
@@ -37,6 +37,8 @@ title: Computational & structural biology outreach
 (2008-18) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
 * Alineamiento de secuencias, estructura secundaria, desorden y filogenias de proteínas (2018) [[PDF](http://digital.csic.es/handle/10261/117608)]
+
+* [From genomes to pangenomes: understanding variation among individuals and species](http://eead-csic-compbio.github.io/get_homologues/tutorial/pangenome_tutorial.html) (2017-2022)
 
 * [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica/) (2004-17)
 
