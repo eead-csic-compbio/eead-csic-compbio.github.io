@@ -25,7 +25,7 @@ title: Computational & structural biology outreach
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
 
-* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021)
+* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-2022)
 
 * [Tuning promoter boundaries improves regulatory motif discovery in non-model plants: the peach example](https://eead-csic-compbio.github.io/coexpression_motif_discovery/peach/Tutorial.html) (2020)
 
