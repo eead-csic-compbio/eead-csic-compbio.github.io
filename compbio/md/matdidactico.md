@@ -21,6 +21,9 @@ title: Computational & structural biology outreach
 
 * [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022)
 
+* [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
+(2008-22) [[PDF](http://digital.csic.es/handle/10261/21892)]
+
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020)
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
@@ -32,9 +35,6 @@ title: Computational & structural biology outreach
 * Methods in biostatistics and bioinformatics: [notes](https://github.com/eead-csic-compbio/biostats_bioinfo) & [exercises](https://github.com/eead-csic-compbio/methods_biostats_bioinfo) (2019)
 
 * [barley-agroclimatic-association](https://eead-csic-compbio.github.io/barley-agroclimatic-association) (2018)
-
-* [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
-(2008-18) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
 * Alineamiento de secuencias, estructura secundaria, desorden y filogenias de proteínas (2018) [[PDF](http://digital.csic.es/handle/10261/117608)]
 
