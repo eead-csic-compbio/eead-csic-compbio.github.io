@@ -100,7 +100,7 @@ title: Computational & structural biology publications
     the Homeobox example. *Lecture Notes in Computer Science*,
     6620/2012:72-82
     ([PDF](http://www.springerlink.com/content/p21pk20883843p04/),
-    [author's PDF](https://digital.csic.es/handle/10261/51825)</li>
+    [author's PDF](https://digital.csic.es/handle/10261/51825))</li>
 
 <li>Sachman-Ruiz,B. **Contreras-Moreira,B.**,
     Zozaya,E., Martínez-Garza,C. and Vinuesa,P. (2011) primers4clades, a
@@ -112,12 +112,13 @@ title: Computational & structural biology publications
 
 <li>Abascal F, Alonso-Allende R, Blaschke C, **Contreras-Moreira B** ... and Valencia A (2001) Bioinformatics For Functional and Structural Genomics at the Protein Design group, CNB-CSIC. In Rita
     Casadio, Lanfranco Masotti (ed) Protein Sequence Analysis In The
-    Post-Genomic Era: 149-165. CLUEB.</li>
+    Post-Genomic Era: 149-165. CLUEB. ([PDF](https://www.researchgate.net/publication/265086823_Bioinformatics_for_Functional_and_Structural_Genomics_at_the_Protein_Design_Group_CNB-CSIC))</li>
 
 </ol>
 
 ### PhD & Master theses
 
+-   **Abdalrahem A** (2022) Exploring the panregulome of grasses with model species Brachypodium distachyon. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://digital.csic.es/handle/10261/284710))
 -   **Sancho Cohen R** (2018) Genome annotation, comparative genomics and evolution of the model grass genus Brachypodium (Poaceae). PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/98297))
 -   **de Anda Torres VY** (2018) La metagenómica como herramienta de
     conservación de Cuatro Ciénegas Coahuila: el caso del ciclo
@@ -138,6 +139,9 @@ title: Computational & structural biology publications
     (Biochemistry), University of London.
     ([PDF](./papers/PhD_thesis_Bruno_Contreras-Moreira2003.pdf),
     [talk](./papers/exit_cruk2004.pdf))
+-   **Yruela I** (1989). Geoquímica orgánica de cuencas lacustres y marismas. Tesis doctoral, Universidad de Sevilla.
+    ([PDF](https://idus.us.es/handle/11441/78996))
+    
 
 ### Supplementary materials of publications
 

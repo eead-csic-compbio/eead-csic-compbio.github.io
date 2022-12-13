@@ -32,7 +32,7 @@ See some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/foto
 ### Previous members / visitors
 
 -   [Nikola Korinkova](https://www.researchgate.net/profile/Nikola-Korinkova) (Sep2022-Dec2022), visiting PhD student from [Palacký University in Olomouc](https://www.upol.cz/en)
--   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, MSc from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, [MSc](https://digital.csic.es/handle/10261/284710) from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
 -   [Carlos P.
     Cantalapiedra](https://scholar.google.com/citations?user=fa8RszgAAAAJ)
     (Jul-Nov2010,Sep2011-Sep2015,Feb2016-Sep2018,
