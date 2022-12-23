@@ -25,8 +25,8 @@ title: "Computational & structural biology software"
 -   [footprintDB](https://floresta.eead.csic.es/footprintdb/): a database
     of transcription factors with annotated cis elements and binding
     interfaces
--   [3D-footprint](https://floresta.eead.csic.es/3dfootprint/): a
-    database for the structural analysis of protein-DNA complexes
+-   [3D-footprint](https://3dfootprint.eead.csic.es): a
+    database for the structural analysis of protein-DNA complexes (was https://floresta.eead.csic.es/3dfootprint)
 
 ### Source code, binaries and Docker containers
 
