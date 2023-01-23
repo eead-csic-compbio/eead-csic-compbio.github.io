@@ -26,11 +26,11 @@ See some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/foto
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-,
     PhD co-supervised by Pilar Catalán at [UZaragoza](https://eps.unizar.es))
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
--   Gonzalo Díaz Elías (Mar2022-), undergraduate from [USJ](https://www.usj.es)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 
 ### Previous members / visitors
 
+-   Gonzalo Díaz Elías (Mar2022-Jan2023), undergraduate from [USJ](https://www.usj.es)  
 -   [Nikola Korinkova](https://www.researchgate.net/profile/Nikola-Korinkova) (Sep2022-Dec2022), visiting PhD student from [Palacký University in Olomouc](https://www.upol.cz/en)
 -   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, [MSc](https://digital.csic.es/handle/10261/284710) from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
 -   [Carlos P.
