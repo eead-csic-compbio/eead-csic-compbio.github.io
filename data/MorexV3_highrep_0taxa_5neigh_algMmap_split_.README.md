@@ -19,8 +19,8 @@ within an interval defined by two MorexV3 genes. Those rows start with '#'.
 These were produced by clustering collinear genes with 
 [get_pangenes.pl](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) with the following arguments:
 
-    plant-scripts/pangenes/get_pangenes.pl -d barley -s '^chr\d+H' -m cluster -r MorexV3 -H -t 0 &> log.barley.H.t0.MorexV3.txt
+    plant-scripts/pangenes/get_pangenes.pl -d barley -s '^chr\d+H' -m cluster -r MorexV3 -H -t 0 
 
-The log file is available [here](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/log.barley.H.t0).
+The log file is available [here](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/log.barley.H.t0.MorexV3.txt).
 
 This protocol has been preprinted at https://www.biorxiv.org/content/10.1101/2023.01.03.520531v1.
