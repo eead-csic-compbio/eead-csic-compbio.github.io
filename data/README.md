@@ -11,7 +11,8 @@ Each has its own README file with details on how it was obtained.
 |[MorexV2_MorexV3.liftoff.f0.50.tsv](./MorexV2_MorexV3.liftoff.f0.50.tsv)|MorexV2 to MorexV3 LiftOff mapping of barley gene identifiers|[README](MorexV2_MorexV3.liftoff.f0.50.README.md)|
 |[IBSCv2_MorexV3.liftoff.f0.50.tsv](./IBSCv2_MorexV3.liftoff.f0.50.tsv)|IBSCv2 to MorexV3  mapping of barley gene identifiers|[README](IBSCv2_MorexV3.liftoff.f0.50.README.md)|
 |[180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.tsv](./180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.tsv)|Mapping VCF positions from Milner 2019 to MorexV3|[README](180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.README.md)|
-|[pangene_matrix_genes.tr.tab](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tr.tab)|Barley pangenes comprising the Jayakodi et al (2020) annotations plus MorexV3 and BaRTv2 reference gene models|[README](.//MorexV3_highrep_0taxa_5neigh_algMmap_split_.README.md)|  
+|[pangene_matrix_genes.tr.tab](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tr.tab)|Pangenes comprising 22 barley annotations including MorexV3 & BaRTv2 gene models|[README](.//MorexV3_highrep_0taxa_5neigh_algMmap_split_.README.md)|  
+|[pangene_matrix.tr.bed](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.bed)|Pangenes comprising 22 barley annotations including MorexV3 & BaRTv2 gene models|[README](.//MorexV3_highrep_0taxa_5neigh_algMmap_split_.README.md)|
 
 
 
