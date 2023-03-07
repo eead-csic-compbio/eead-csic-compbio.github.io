@@ -22,9 +22,9 @@ title: "Computational & structural biology software"
 -   [BARLEYMAP](https://floresta.eead.csic.es/barleymap/): a tool to
     search the position of barley genetic markers on the Barley Physical
     Map and the POPSEQ map
--   [footprintDB](https://floresta.eead.csic.es/footprintdb/): a database
+-   [footprintDB](https://footprintdb.eead.csic.es): a database
     of transcription factors with annotated cis elements and binding
-    interfaces
+    interfaces (was https://floresta.eead.csic.es/footprintdb)
 -   [3D-footprint](https://3dfootprint.eead.csic.es): a
     database for the structural analysis of protein-DNA complexes (was https://floresta.eead.csic.es/3dfootprint)
 
