@@ -1,93 +1,82 @@
-# pangenes/get_pangenes.pl -d barley -p 0 -o 0 -r MorexV3 -t 0 -c 0 -z 0 -I 0 -m cluster -w 0 -g 0 -O 0.5 -Q 50 -N 5 -s '^chr\d+H' -H 1 -W '' -G '' -B '' -S '' -n 4 -R 0
+# plant-scripts/pangenes/get_pangenes.pl -d barley -p 0 -o 0 -r MorexV3 -t 0 -c 0 -z 0 -I 0 -m cluster -w 0 -g 0 -O 0.5 -Q 50 -N 5 -s '^chr\d+H' -H 1 -W '' -G '' -B '' -S '' -n 4 -R 0
 
-# computer cluster settings
-# CHKEXE	bjobs
-# CTIME	30
-# DELEXE	bkill
-# ERROR	EXIT
-# PATH	lsf/linux3.10-glibc2.17-x86_64/bin/
-# QARGS	-q production -M 220G 
-# STIME	1
-# SUBEXE	bsub
-# TYPE	lsf
-
-# version 09032023
-# results_directory=barley_pangenes
+# version 17032023
+# results_directory=/barley_pangenes
 # parameters: MINGFFLEN=100
 
 # checking input files...
-# re-using barley_pangenes/_Akashinriki.fna
-# re-using barley_pangenes/_Akashinriki.gff
+# re-using /barley_pangenes/_Akashinriki.fna
+# re-using /barley_pangenes/_Akashinriki.gff
 # barley/Akashinriki.fna.gz 4401.28MB genes=44446 chrs/contigs=7
-# re-using barley_pangenes/_B1K-04-12.fna
-# re-using barley_pangenes/_B1K-04-12.gff
+# re-using /barley_pangenes/_B1K-04-12.fna
+# re-using /barley_pangenes/_B1K-04-12.gff
 # barley/B1K-04-12.fna.gz 4142.67MB genes=44566 chrs/contigs=7
-# re-using barley_pangenes/_Barke.fna
-# re-using barley_pangenes/_Barke.gff
+# re-using /barley_pangenes/_Barke.fna
+# re-using /barley_pangenes/_Barke.gff
 # barley/Barke.fna.gz 4073.51MB genes=45999 chrs/contigs=7
-# re-using barley_pangenes/_Golden_Promise.fna
-# re-using barley_pangenes/_Golden_Promise.gff
+# re-using /barley_pangenes/_Golden_Promise.fna
+# re-using /barley_pangenes/_Golden_Promise.gff
 # barley/Golden_Promise.fna.gz 3946.30MB genes=42464 chrs/contigs=7
-# re-using barley_pangenes/_HOR10350.fna
-# re-using barley_pangenes/_HOR10350.gff
+# re-using /barley_pangenes/_HOR10350.fna
+# re-using /barley_pangenes/_HOR10350.gff
 # barley/HOR10350.fna.gz 4086.85MB genes=45810 chrs/contigs=7
-# re-using barley_pangenes/_HOR13821.fna
-# re-using barley_pangenes/_HOR13821.gff
+# re-using /barley_pangenes/_HOR13821.fna
+# re-using /barley_pangenes/_HOR13821.gff
 # barley/HOR13821.fna.gz 4324.88MB genes=44714 chrs/contigs=7
-# re-using barley_pangenes/_HOR13942.fna
-# re-using barley_pangenes/_HOR13942.gff
+# re-using /barley_pangenes/_HOR13942.fna
+# re-using /barley_pangenes/_HOR13942.gff
 # barley/HOR13942.fna.gz 4249.32MB genes=44718 chrs/contigs=7
-# re-using barley_pangenes/_HOR21599.fna
-# re-using barley_pangenes/_HOR21599.gff
+# re-using /barley_pangenes/_HOR21599.fna
+# re-using /barley_pangenes/_HOR21599.gff
 # barley/HOR21599.fna.gz 4344.99MB genes=44456 chrs/contigs=7
-# re-using barley_pangenes/_HOR3081.fna
-# re-using barley_pangenes/_HOR3081.gff
+# re-using /barley_pangenes/_HOR3081.fna
+# re-using /barley_pangenes/_HOR3081.gff
 # barley/HOR3081.fna.gz 4201.99MB genes=45146 chrs/contigs=7
-# re-using barley_pangenes/_HOR3365.fna
-# re-using barley_pangenes/_HOR3365.gff
+# re-using /barley_pangenes/_HOR3365.fna
+# re-using /barley_pangenes/_HOR3365.gff
 # barley/HOR3365.fna.gz 4722.38MB genes=47588 chrs/contigs=7
-# re-using barley_pangenes/_HOR7552.fna
-# re-using barley_pangenes/_HOR7552.gff
+# re-using /barley_pangenes/_HOR7552.fna
+# re-using /barley_pangenes/_HOR7552.gff
 # barley/HOR7552.fna.gz 4228.81MB genes=44641 chrs/contigs=7
-# re-using barley_pangenes/_HOR8148.fna
-# re-using barley_pangenes/_HOR8148.gff
+# re-using /barley_pangenes/_HOR8148.fna
+# re-using /barley_pangenes/_HOR8148.gff
 # barley/HOR8148.fna.gz 4212.32MB genes=45026 chrs/contigs=7
-# re-using barley_pangenes/_HOR9043.fna
-# re-using barley_pangenes/_HOR9043.gff
+# re-using /barley_pangenes/_HOR9043.fna
+# re-using /barley_pangenes/_HOR9043.gff
 # barley/HOR9043.fna.gz 4270.33MB genes=45028 chrs/contigs=7
-# re-using barley_pangenes/_Hockett.fna
-# re-using barley_pangenes/_Hockett.gff
+# re-using /barley_pangenes/_Hockett.fna
+# re-using /barley_pangenes/_Hockett.gff
 # barley/Hockett.fna.gz 4201.97MB genes=46450 chrs/contigs=7
-# re-using barley_pangenes/_Igri.fna
-# re-using barley_pangenes/_Igri.gff
+# re-using /barley_pangenes/_Igri.fna
+# re-using /barley_pangenes/_Igri.gff
 # barley/Igri.fna.gz 4202.87MB genes=45213 chrs/contigs=7
-# re-using barley_pangenes/_Morex.fna
-# re-using barley_pangenes/_Morex.gff
+# re-using /barley_pangenes/_Morex.fna
+# re-using /barley_pangenes/_Morex.gff
 # barley/Morex.fna.gz 4210.58MB genes=46294 chrs/contigs=7
-# re-using barley_pangenes/_OUN333.fna
-# re-using barley_pangenes/_OUN333.gff
+# re-using /barley_pangenes/_OUN333.fna
+# re-using /barley_pangenes/_OUN333.gff
 # barley/OUN333.fna.gz 4392.43MB genes=44699 chrs/contigs=7
-# re-using barley_pangenes/_RGT_Planet.fna
-# re-using barley_pangenes/_RGT_Planet.gff
+# re-using /barley_pangenes/_RGT_Planet.fna
+# re-using /barley_pangenes/_RGT_Planet.gff
 # barley/RGT_Planet.fna.gz 4213.74MB genes=45413 chrs/contigs=7
-# re-using barley_pangenes/_ZDM01467.fna
-# re-using barley_pangenes/_ZDM01467.gff
+# re-using /barley_pangenes/_ZDM01467.fna
+# re-using /barley_pangenes/_ZDM01467.gff
 # barley/ZDM01467.fna.gz 4540.11MB genes=44746 chrs/contigs=7
-# re-using barley_pangenes/_ZDM02064.fna
-# re-using barley_pangenes/_ZDM02064.gff
+# re-using /barley_pangenes/_ZDM02064.fna
+# re-using /barley_pangenes/_ZDM02064.gff
 # barley/ZDM02064.fna.gz 4153.31MB genes=45050 chrs/contigs=7
-# re-using barley_pangenes/_BarkeBaRT2v18.fna
-# re-using barley_pangenes/_BarkeBaRT2v18.gff
-# barley/BarkeBaRT2v18.fna.gz 4073.51MB genes=39434 chrs/contigs=7
-# re-using barley_pangenes/_MorexV3.fna
-# re-using barley_pangenes/_MorexV3.gff
+# re-using /barley_pangenes/_BarkeBaRT2v18.fna
+# uncompressing barley/BarkeBaRT2v18.gff.gz
+# barley/BarkeBaRT2v18.fna.gz 4073.51MB genes=39281 chrs/contigs=7
+# re-using /barley_pangenes/_MorexV3.fna
+# re-using /barley_pangenes/_MorexV3.gff
 # barley/MorexV3.fna.gz 4097.02MB genes=35826 chrs/contigs=7
 
-# 22 genomes, 977727 genes
+# 22 genomes, 977574 genes
 
 # done
 
-# taxa considered = 22 genes = 977727
+# taxa considered = 22 genes = 977574
 
 # mask=MorexV3_highrep_0taxa_5neigh_algMmap_split_ (_highrep_0taxa_5neigh_algMmap_split)
 
@@ -97,29 +86,6 @@
 
 
 # running pairwise genome alignments ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
-# check_cluster_jobs: waiting ...
 # done
 
 # sorting collinearity results...
@@ -150,26 +116,25 @@
 
 # clustering sequences ...
 
-# check_cluster_jobs: waiting ...
-# done
+# WARNING : folder 'MorexV3_highrep_0taxa_5neigh_algMmap_split_' exists, clusters might be overwritten
 
-# number of clusters = 183395 (core = 15155)
+# number of clusters = 181564 (core = 16436)
 
-# cluster_list = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3.cluster_list
-# cluster_directory = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3
+# cluster_list = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3.cluster_list
+# cluster_directory = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3
 
-# percent_conserved_sequences_file = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/POCS.matrix.tab
+# percent_conserved_sequences_file = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/POCS.matrix.tab
 
-# clusters sorted by position in chr chr1H = 18737
-# clusters sorted by position in chr chr2H = 24258
-# clusters sorted by position in chr chr3H = 22891
-# clusters sorted by position in chr chr4H = 15479
-# clusters sorted by position in chr chr5H = 22635
-# clusters sorted by position in chr chr6H = 19888
-# clusters sorted by position in chr chr7H = 23963
+# clusters sorted by position in chr chr1H = 18492
+# clusters sorted by position in chr chr2H = 23956
+# clusters sorted by position in chr chr3H = 22580
+# clusters sorted by position in chr chr4H = 15265
+# clusters sorted by position in chr chr5H = 22366
+# clusters sorted by position in chr chr6H = 19651
+# clusters sorted by position in chr chr7H = 23667
 # clusters sorted by position in chr unplaced = 35533
-# pangene_file (occup) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tab
-# pangene_file (occup, transposed) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.tab
-# pangene_file (names) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tab
-# pangene_file (names, transposed) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tr.tab
-# pangene_file (BED-like) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.bed
+# pangene_file (occup) = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tab
+# pangene_file (occup, transposed) = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.tab
+# pangene_file (names) = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tab
+# pangene_file (names, transposed) = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix_genes.tr.tab
+# pangene_file (BED-like) = /barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.bed
