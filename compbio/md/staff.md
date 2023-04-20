@@ -115,7 +115,7 @@ See some pics of the group: [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/foto
 - the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
 - the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
 - [Ensembl Plants](https://plants.ensembl.org), [Gramene](https://www.gramene.org), [UniProt](https://www.uniprot.org) and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
-- the partners of [GENDIBAR](https://www.era-learn.eu/network-information/networks/prima/section-2-call-multi-topic-2018/utilization-of-local-genetic-diversity-to-understand-and-exploit-barley-adaptation-to-harsh-environments-and-for-pre-breeding)
+- the partners of [GENDIBAR](https://www.era-learn.eu/network-information/networks/prima/section-2-call-multi-topic-2018/utilization-of-local-genetic-diversity-to-understand-and-exploit-barley-adaptation-to-harsh-environments-and-for-pre-breeding) and [RECOBAR](https://www.era-learn.eu/network-information/networks/suscrop/3rd-transnational-joint-call-on-sustainable-crop-production-with-facce-jpi/recovering-and-exploiting-old-and-new-barley-diversity-for-future-ready-agriculture)
 
 
 <!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
