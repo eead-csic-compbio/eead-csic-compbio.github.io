@@ -23,7 +23,10 @@ my $CLUSTALOEXE  = '~/soft/clustal-omega-1.2.4/src/clustalo';
 my $PAL2NALEXE   = '~/github/get_phylomarkers/pal2nal.pl'; 
 my $CDSPREALNEXE = '~/github/subopt-kaks/src/yn00_cds_prealigned';
 
-my $KEEPTMPFILES = 0; # set to 1 for debugging
+my $KEEPTMPFILES = 0; # set to 1 for debugging or for conserving MSA files
+
+
+
 
 my ($n_of_seqs, $pepfile, $nuclfile, @trash) = (0);
 
@@ -67,7 +70,7 @@ my $filename_prefix = basename($pepfile);
 
 
 ## 2) remove stop codons from peptide FASTA
-my $nostop_filename = $pepfile . '.nostop.faa';
+my $nostop_filename = $filename_prefix . '.nostop.faa';
 system("$PERLEXE -lne 's/\\*//; print' $pepfile > $nostop_filename");
 if(!-e $nostop_filename) {
 	die "# ERROR: cannot remove stop codons in $pepfile\n";
@@ -77,7 +80,7 @@ if(!-e $nostop_filename) {
 
 
 ## 3) compute multiple alignment of proteins (MSA)
-my $MSA_filename = $pepfile . '.aln.faa';
+my $MSA_filename = $filename_prefix . '.aln.faa';
 system("$CLUSTALOEXE -i $nostop_filename -o $MSA_filename");
 if(!-e $MSA_filename) {
         die "# ERROR: cannot align $nostop_filename\n";
@@ -87,7 +90,7 @@ if(!-e $MSA_filename) {
 
 
 ## 4) make codon alignment based on previous MSA
-my $codon_filename = $pepfile . '.aln.fna';
+my $codon_filename = $filename_prefix . '.aln.fna';
 system("$PAL2NALEXE -output fasta $MSA_filename $nuclfile > $codon_filename");
 if(!-e $codon_filename) {
         die "# ERROR: cannot align $codon_filename\n";
