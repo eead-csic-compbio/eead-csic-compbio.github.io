@@ -29,14 +29,32 @@ my $KEEPTMPFILES = 0; # set to 1 for debugging
 # 2069  cut -f 2  5825_Brdisv1ABR21034417m.aln.kaks.tsv
 # 2070  cut -f 3  5825_Brdisv1ABR21034417m.aln.kaks.tsv
 
+my $n_of_seqs = 0;
+
 if(!defined($ARGV[1])) {
 	die "# usage: $0 <peptide CDS FASTA filename> <nucleotide CDS FASTA filename>\n";
 } else {
 	if(!-e $ARGV[0]){
 		die "# ERROR: cannot find $ARGV[0]\n";
+
 	} if(!-e $ARGV[1]){
                 die "# ERROR: cannot find $ARGV[1]\n";
-        }
+
+        } else {
+	
+		# check input file contains enough sequences
+		open(FAA, $ARGV[1]);
+		while(<FAA>) {
+			if(/^>/) {
+				$n_of_seqs++;
+			}
+		}
+		close(FAA);
+
+		if($n_of_seqs < 4) {
+			die "# WARNING: <4 sequences in $ARGV[0]\n";
+		}
+   	}
 }
 
 my ($pepfile, $nuclfile) = @ARGV;
@@ -104,7 +122,8 @@ if($median_Ks > 0) {
 		$median_Ka / $median_Ks );
 }
 
-print "$pepfile\t$nuclfile\t$median_Ka\t$median_Ks\t$median_omega\n";
+print "#pepfile\tnuclfile\tnseqs\tmedian_Ka\tmedian_Ks\tmedian_omega\n";
+print "$pepfile\t$nuclfile\t$n_of_seqs\t$median_Ka\t$median_Ks\t$median_omega\n";
 
 
 ## 7) clean tmp files
