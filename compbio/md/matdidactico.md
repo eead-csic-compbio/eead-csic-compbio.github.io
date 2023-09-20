@@ -24,11 +24,11 @@ title: Computational & structural biology outreach
 * [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
 (2008-22) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
-* [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020)
+* [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020-23)
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
 
-* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-2022)
+* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-23)
 
 * [Tuning promoter boundaries improves regulatory motif discovery in non-model plants: the peach example](https://eead-csic-compbio.github.io/coexpression_motif_discovery/peach/Tutorial.html) (2020)
 
@@ -38,13 +38,13 @@ title: Computational & structural biology outreach
 
 * Alineamiento de secuencias, estructura secundaria, desorden y filogenias de proteínas (2018) [[PDF](http://digital.csic.es/handle/10261/117608)]
 
-* [From genomes to pangenomes: understanding variation among individuals and species](http://eead-csic-compbio.github.io/get_homologues/tutorial/pangenome_tutorial.html) (2017-2022)
+* [From genomes to pangenomes: understanding variation among individuals and species](http://eead-csic-compbio.github.io/get_homologues/tutorial/pangenome_tutorial.html) (2017-22)
 
 * [Perl en Bioinformática](https://eead-csic-compbio.github.io/perl_bioinformatica/) (2004-17)
 
 * [Structure-based analysis of transcriptional regulation](http://jvanheld.github.io/cisreg_course/structure/struct-regulation.html) (2015)
     
-* Curso sobre modelado comparativo de proteínas (2004-2013) [[PDF](http://digital.csic.es/handle/10261/59335)]
+* Curso sobre modelado comparativo de proteínas (2004-13) [[PDF](http://digital.csic.es/handle/10261/59335)]
 
 <!--[Computational analysis of regulatory
 proteins](http://www.eead.csic.es/compbio/material/regulatory_proteins)
