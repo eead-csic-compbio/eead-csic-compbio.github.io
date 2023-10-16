@@ -20,3 +20,4 @@ Example of use:
 
     Example: bayenv2 -t -i input.tsv -p 20 -e env.tsv -n 87 -m matrix.txt -k 100000 -r 12345 -c -o test.env
 
+Note: make sure you split env.tsv if there are more than 100 variables.
