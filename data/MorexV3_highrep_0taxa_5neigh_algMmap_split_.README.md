@@ -17,10 +17,11 @@ Clusters that do not include MorexV3 genes do not have an exact position, they a
 within an interval defined by two MorexV3 genes. Those rows start with '#'.
 
 These were produced by clustering collinear genes with 
-[get_pangenes.pl](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) with the following arguments:
+[get_pangenes.pl](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) 
+[v1.1](https://github.com/Ensembl/plant-scripts/releases/tag/v1.1) with the following arguments:
 
     plant-scripts/pangenes/get_pangenes.pl -d barley -s '^chr\d+H' -m cluster -r MorexV3 -H -t 0 
 
 The log file is available [here](./MorexV3_highrep_0taxa_5neigh_algMmap_split_/log.barley.H.t0.MorexV3.txt).
 
-This protocol has been preprinted at https://www.biorxiv.org/content/10.1101/2023.01.03.520531v1.
+This protocol was published at <https://doi.org/10.1186/s13059-023-03071-z>.
