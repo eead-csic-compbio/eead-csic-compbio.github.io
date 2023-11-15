@@ -17,8 +17,8 @@ Clusters that do not include MorexV3 genes do not have an exact position, they a
 within an interval defined by two MorexV3 genes. Those rows start with '#'.
 
 These were produced by clustering collinear genes with 
-[get_pangenes.pl](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) 
-[v1.1](https://github.com/Ensembl/plant-scripts/releases/tag/v1.1) with the following arguments:
+[get_pangenes.pl](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) version 15112023 
+with the following arguments:
 
     plant-scripts/pangenes/get_pangenes.pl -d barley -s '^chr\d+H' -m cluster -r MorexV3 -H -t 0 
 

@@ -1,7 +1,6 @@
-nohup: ignoring input
 # plant-scripts/pangenes/get_pangenes.pl -d barley -p 0 -o 0 -r MorexV3 -t 0 -c 0 -z 0 -I 0 -m cluster -w 0 -g 0 -O 0.5 -Q 50 -N 5 -s '^chr\d+H' -H 1 -W '' -G '' -B '' -S '' -n 4 -R 0
 
-# version 14112023
+# version 15112023
 # results_directory=barley_pangenes
 # parameters: MINGFFLEN=100 GFFACCEPTEDFEATS=gene,mRNA,transcript,exon,CDS GFFVALIDGENEFEAT=gene,mRNA,transcript
 
@@ -88,7 +87,6 @@ nohup: ignoring input
 
 
 # running pairwise genome alignments ...
-# check_cluster_jobs: waiting ...
 # done
 
 # sorting collinearity results...
@@ -118,22 +116,23 @@ nohup: ignoring input
 90184.0 36.7 MorexV3
 
 # clustering sequences ...
+# check_cluster_jobs: waiting ...
 # done
 
-# number of clusters = 181410 (core = 16585)
+# number of clusters = 181410 (core = 16583)
 
 # cluster_list = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3.cluster_list
 # cluster_directory = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/MorexV3
 
 # percent_conserved_sequences_file = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/POCS.matrix.tab
 
-# clusters sorted by position in chr chr1H = 18500
-# clusters sorted by position in chr chr2H = 23940
-# clusters sorted by position in chr chr3H = 22578
-# clusters sorted by position in chr chr4H = 15257
-# clusters sorted by position in chr chr5H = 22358
-# clusters sorted by position in chr chr6H = 19567
-# clusters sorted by position in chr chr7H = 23657
+# clusters sorted by position in chr chr1H = 18501
+# clusters sorted by position in chr chr2H = 23942
+# clusters sorted by position in chr chr3H = 22585
+# clusters sorted by position in chr chr4H = 15258
+# clusters sorted by position in chr chr5H = 22360
+# clusters sorted by position in chr chr6H = 19568
+# clusters sorted by position in chr chr7H = 23663
 # clusters sorted by position in chr unplaced = 35533
 # pangene_file (occup) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tab
 # pangene_file (occup, transposed) = barley_pangenes/MorexV3_highrep_0taxa_5neigh_algMmap_split_/pangene_matrix.tr.tab
