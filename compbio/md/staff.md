@@ -27,6 +27,7 @@ See some pics of the group: [2023](pics/fotoGrupoJul2023.png), [2022](pics/fotoG
     PhD co-supervised by Pilar Catalán at [UZaragoza](https://eps.unizar.es))
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
+-   Carmen Miravete Bernal (Nov2023-Dic2023), undergraduate from [USJ](https://www.usj.es)  
 
 
 ### Previous members / visitors
