@@ -25,6 +25,7 @@ See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fot
     (Sept2015-Oct2016, Apr2018-, [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf) and PhD co-supervised by Yolanda Gogorcena)
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
+-   Íñigo Verón Mansilla (Feb2024-Mar2024), undergraduate from [USJ](https://www.usj.es)
 
 ### Previous members / visitors
 
