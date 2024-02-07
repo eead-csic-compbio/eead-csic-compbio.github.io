@@ -27,6 +27,7 @@ title: "Computational & structural biology software"
     interfaces
 -   [3D-footprint](https://3dfootprint.eead.csic.es): a
     database for the structural analysis of protein-DNA complexes
+-   [barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes): clusters of gene models/alleles in a similar genomic location
 
 ### Source code, binaries and Docker containers
 
