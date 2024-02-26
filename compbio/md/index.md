@@ -20,6 +20,7 @@ The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic
 - (Pan)genomics and transcriptional regulation of grasses
 - Evolutionary and structural analysis of ductile proteins (IDPs) and flavoenzymes
 
+The group is part of the [INB/ELIXIR ES node](https://inb-elixir.es/about-inb/inb-nodes) and [Conexión BCB CSIC](https://delegacion.comunitatvalenciana.csic.es/el-csic-presenta-en-valencia-una-plataforma-para-ofrecer-sus-recursos-en-idi-en-biologia-computacional-y-bioinformatica).
 
 ![](pics/EEAD.jpg)
 
