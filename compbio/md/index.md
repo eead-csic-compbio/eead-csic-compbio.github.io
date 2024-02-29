@@ -35,8 +35,7 @@ The group is part of the [INB/ELIXIR ES node](https://inb-elixir.es/about-inb/in
     Av. Montañana 1.005, 50059 Zaragoza (Spain)<br>
     phone (+34) 976716089
   </td>
-  <td align="left"><a href="https://www.csic.es"><img src="pics/logoCSIC.png" height="79" width="274"></a></td>
-  <td>
+  <!--<td align="left"><a href="https://www.csic.es"><img src="pics/logoCSIC.png" height="79" width="274"></a></td>-->
   <td><a href="https://github.com/eead-csic-compbio"><img src="pics/github-logo.png"></a>
   <a href="http://maps.google.es/maps/ms?ie=UTF8&hq=&hnear=Zaragoza,+Aragón&t=h&hl=es&msa=0&msid=103443040866049081278.0004716b3cad43164d2cf&ll=41.687912,-0.828438&spn=0.08653,0.222816&z=13"><img src="pics/bici.png"></a></td>
   </tr>
