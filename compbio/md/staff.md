@@ -75,7 +75,7 @@ See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fot
 -   Anais Ariza Jiménez (Jul-Aug2013)\
     Student project on 'Transcriptional regulation of chloroplast
     genes', supported by [CSIC
-    JAE-intro](https://sede.csic.gob.es/jae-intro-cp-2013) program.
+    JAE-intro](https://www.csic.es/es/formacion-y-empleo/formacion-de-personal-investigador/grado/becas-de-introduccion) program.
 -   [Daniela
     Medeot](https://www.researchgate.net/profile/Daniela_Medeot) (UNRC
     Argentina, Jun-Jul2013)\
@@ -105,7 +105,7 @@ See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fot
 -   Odín Morón García (Jul-Oct2008)\
     Student project on 'Evaluation of methods of gene orthology
     assignment', funded by [CSIC Introduction to
-    research](https://sede.csic.gob.es/servicios/formacion-y-empleo/formacion-de-personal-investigador) program.
+    research](https://www.csic.es/es/formacion-y-empleo/formacion-de-personal-investigador/grado/becas-de-introduccion) program.
 
 
 ### Current collaborators
