@@ -62,6 +62,8 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 ### Divulgación
 
+* Yruela I (2024) Artificial photosynthesis: fifty-five years of research to colonize space [The Conversation-E](https://bit.ly/43bPBGw) 
+
 * Contreras-Moreira B, Matamoros M (2023) [Bioquímica en la ciudad: “Plantoquímica”](https://eead-csic-compbio.github.io/plantoquimica). 
 
 * Contreras-Moreira B, Montardit F (2022) [Ensamblaje y anotación de un gen](https://docs.google.com/presentation/d/1cdVqYEJb8iCSjjlGOZ0ToF6pLvNQiInNDn6TbJ7AuMk/edit?usp=sharing). 
