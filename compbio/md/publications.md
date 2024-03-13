@@ -118,6 +118,7 @@ title: Computational & structural biology publications
 
 ### PhD & Master theses
 
+-   **María Ángeles Decena** (2023) Evolution of allopolyploidy in species of the model genus Brachypodium (Poaceae) using genomic, transcriptomic, cytogenetic and phenotypic approaches. PhD thesis, Universidad de Zaragoza.
 -   **Abdalrahem A** (2022) Exploring the panregulome of grasses with model species Brachypodium distachyon. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://digital.csic.es/handle/10261/284710))
 -   **Sancho Cohen R** (2018) Genome annotation, comparative genomics and evolution of the model grass genus Brachypodium (Poaceae). PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/98297))
 -   **de Anda Torres VY** (2018) La metagenómica como herramienta de
