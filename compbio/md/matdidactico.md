@@ -64,6 +64,9 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 * Yruela I (2024) Artificial photosynthesis: fifty-five years of research to colonize space [FEBS Network](https://bit.ly/43bPBGw) 
 
+* Contreras-Moreira B (2024) [Computational plant genomics and resistance to climate change](https://www.youtube.com/watch?v=LSOGOgnwhhk&t=9460s), 
+parte del lanzamiento de la Conexión CSIC Biología Computacional y Bioinformática (BCB).
+
 * Contreras-Moreira B, Matamoros M (2023) [Bioquímica en la ciudad: “Plantoquímica”](https://eead-csic-compbio.github.io/plantoquimica). 
 
 * Contreras-Moreira B, Montardit F (2022) [Ensamblaje y anotación de un gen](https://docs.google.com/presentation/d/1cdVqYEJb8iCSjjlGOZ0ToF6pLvNQiInNDn6TbJ7AuMk/edit?usp=sharing). 
@@ -96,10 +99,10 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 * Yruela I (2018) La importancia de salirse de la norma: las proteínas dúctiles. [Ciencia para llevar: el blog del CSIC](https://blogs.20minutos.es/ciencia-para-llevar-csic/2018/12/26)
 
-* Yruela I (2018) Las proteínas dúctiles contribuyen a la diversificación de las células. [SEBBM Divulgación. Acércate a nuestros científicos](http://dx.doi.org/10.18567/sebbmdiv_ANC.2018.11.1)
+* Yruela I (2018) Las proteínas dúctiles contribuyen a la diversificación de las células. [SEBBM Divulgación. Acércate a nuestros científicos](https://sebbm.es/acercate-a/las-proteinas-ductiles-contribuyen-a-la-diversificacion-de-las-celulas)
 
-* Entrevistas en programa [Ágora](https://www.cartv.es/aragonradio/programas/agora/podcast) sobre
-nuestro trabajo: 28/06/2017 (min.33) y 29/06/2017 (min.29) 
+* Entrevistas en programa Ágora sobre nuestro trabajo: [28/06/2017](https://www.cartv.es/aragonradio/podcast/emision/agora-28-06-2017) (min.33) y 
+[29/06/2017](https://www.cartv.es/aragonradio/podcast/emision/agora-29-06-2017) (min.29) 
 
 * Contreras-Moreira B (2009) [La filosofía *open source* en la bioinformática](https://digital.csic.es/handle/10261/22507)
 
