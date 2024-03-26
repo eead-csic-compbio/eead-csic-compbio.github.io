@@ -31,13 +31,17 @@ title: "Computational & structural biology software"
 
 ### Source code, binaries and Docker containers
 
+-   [plant-scripts](https://github.com/Ensembl/plant-scripts): code examples for interrogating 
+[Ensembl Plants](https://plants.ensembl.org) from your own scripts, masking & annotating repeats and calling pangenes in plant genomes ([GitHub downloads](https://tooomm.github.io/github-release-stats/?username=ensembl&repository=plant-scripts)).
 -   [GET\_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues):
     a versatile software package for pan-genome analysis (Linux/MacOSX
-    Perl, R scripts, binaries, [Docker
-    image](https://hub.docker.com/r/csicunam/get_homologues),
+    Perl, R scripts, binaries, 
+    [bioconda](https://anaconda.org/bioconda/get_homologues),
+    [Docker image](https://hub.docker.com/r/csicunam/get_homologues),
     [manual](http://eead-csic-compbio.github.io/get_homologues/manual/),
-    [microbia](http://aem.asm.org/cgi/pmidlookup?view=long&pmid=24096415),
-    [plants](http://journal.frontiersin.org/article/10.3389/fpls.2017.00184/full))
+    [microbia](https://doi.org/10.1128/AEM.02411-13),
+    [plants](https://doi.org/10.3389/fpls.2017.00184),
+    [GitHub downloads](https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&repository=get_homologues))
 -   [GET\_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers): software package designed to identify optimal genomic markers for phylogenomics, population genetics and genomic taxonomy.
 -   [coexpression_motif_discovery](https://eead-csic-compbio.github.io/coexpression_motif_discovery): recipes to discover cis-regulatory motifs within proximal promoters of plants in RSAT::Plants.
 -   [Multigenomic Entropy-Based
@@ -85,5 +89,4 @@ Other repos with code contributed by members of the lab:
 * https://github.com/valdeanda/mebs
 * https://github.com/vinuesa/get_phylomarkers 
 * https://github.com/rsa-tools
-* https://github.com/Ensembl/plant-scripts
 
