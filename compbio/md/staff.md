@@ -21,14 +21,15 @@ See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fot
 
 -   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X) [Twitter](https://twitter.com/BrunoContrerasM) (funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [Twitter](https://twitter.com/InmaYruela)
--   [Najla Ksouri](http://www.eead.csic.es/home/staffinfo?Id=501)
-    (Sept2015-Oct2016, Apr2018-, [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf) and PhD co-supervised by Yolanda Gogorcena)
+ [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf) and PhD co-supervised by Yolanda Gogorcena)
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
 
 ### Previous members / visitors
 
+-   [Najla Ksouri](https://orcid.org/0000-0001-8956-2920)
+    (Sept2015-Oct2016, Apr2018-Jun2023, PhD co-directed by Yolanda Gogorcena)
 -   Íñigo Verón Mansilla (Feb2024-Mar2024), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/iniverman/barley-variant-calling)
 -   Carmen Miravete Bernal (Nov2023-Dic2023), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/carmenmiravete/barley_variant_calling)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-Dec2023,
