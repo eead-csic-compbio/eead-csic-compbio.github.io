@@ -28,7 +28,7 @@ See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fot
 ### Previous members / visitors
 
 -   [Najla Ksouri](https://orcid.org/0000-0001-8956-2920)
-    (Sept2015-Oct2016 [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf), Apr2018-Jun2023 PhD, co-supervised by Yolanda Gogorcena)
+    (Sept2015-Oct2016 [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf), Apr2018-Jun2023 [PhD](https://digital.csic.es/handle/10261/359577), co-supervised by Yolanda Gogorcena)
 -   Íñigo Verón Mansilla (Feb2024-Mar2024), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/iniverman/barley-variant-calling)
 -   Carmen Miravete Bernal (Nov2023-Dic2023), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/carmenmiravete/barley_variant_calling)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-Dec2023,
