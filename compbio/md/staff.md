@@ -20,7 +20,7 @@ title: Computational & structural biology group members
 See some pics of the group: [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
 -   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X) [Twitter](https://twitter.com/BrunoContrerasM) (funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
--   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [Twitter](https://twitter.com/InmaYruela)
+-   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [DIGITAL.CSIC](https://digital.csic.es/cris/rp/rp02621) [Twitter](https://twitter.com/InmaYruela)
 -   [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en)
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
