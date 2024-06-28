@@ -21,8 +21,7 @@ The Computational & Structural Biology Group at [EEAD-CSIC](http://www.eead.csic
 - High-resolution agroclimatic indices for field trials and adaptation studies
 - Evolutionary and structural analysis of ductile proteins (IDPs) and flavoenzymes
 
-The group is part of the [INB/ELIXIR ES node](https://inb-elixir.es/about-inb/inb-nodes) and [Conexión BCB CSIC](https://conexion-bcb.csic.es).
-<!--https://delegacion.comunitatvalenciana.csic.es/el-csic-presenta-en-valencia-una-plataforma-para-ofrecer-sus-recursos-en-idi-en-biologia-computacional-y-bioinformatica-->
+The group is part of the [INB/ELIXIR ES node](https://inb-elixir.es/about-inb/inb-nodes) and CSIC hubs [BCB](https://conexion-bcb.csic.es) and [Life](https://lifehub.csic.es). 
 
 ![](pics/EEAD2024.jpg)
 
