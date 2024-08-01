@@ -19,7 +19,6 @@ title: Computational & structural biology publications
 
 -   Bruno Contreras Moreira: [scholar](https://scholar.google.com/citations?user=xtWJ8JsAAAAJ&hl=en) [digital.csic](https://digital.csic.es/browse?type=author&authority=rp02661) [ORCiD](https://orcid.org/0000-0002-5462-907X) 
 -   Inmaculada Yruela: [scholar](https://scholar.google.com/citations?user=HEQpE0oAAAAJ) [digital.csic](https://digital.csic.es/cris/rp/rp02621) [ORCiD](https://orcid.org/0000-0003-3608-4720)
--   Najla Ksouri: [scholar](https://scholar.google.com/citations?user=gk54IH0AAAAJ&hl=en) [digital.csic](https://digital.csic.es/browse?type=author&value=Ksouri%2C+Najla&value_lang=es_ES)
 
 ### Books and chapters
 
