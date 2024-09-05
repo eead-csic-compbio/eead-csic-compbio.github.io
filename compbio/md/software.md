@@ -20,15 +20,16 @@ title: "Computational & structural biology software"
 -   [RSAT::Plants](http://plants.rsat.eu): A plant-dedicated server for
     the analysis of regulatory sequences
 -   [BARLEYMAP](https://barleymap.eead.csic.es): a tool to
-    search the position of barley genetic markers on the Barley Physical
-    Map and the POPSEQ map
+    search the position of genetic markers on barley genomic, physical and POPSEQ maps
 -   [footprintDB](https://footprintdb.eead.csic.es): a database
     of transcription factors with annotated cis elements and binding
     interfaces
 -   [3D-footprint](https://3dfootprint.eead.csic.es): a
     database for the structural analysis of protein-DNA complexes
 -   [barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes): clusters of gene models/alleles in a similar genomic location
-
+-   [PRUNUSMAP](https://prunusmap.eead.csic.es): a tool to
+    search the position of genetic markers and protein on annotated Prunus genomes
+    
 ### Source code, binaries and Docker containers
 
 -   [plant-scripts](https://github.com/Ensembl/plant-scripts): code examples for interrogating 
