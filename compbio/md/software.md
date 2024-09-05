@@ -37,27 +37,26 @@ title: "Computational & structural biology software"
     a versatile software package for gene-based pangenome analysis of microbes and plants (Linux/MacOSX
     Perl, R scripts, binaries, 
     [bioconda](https://anaconda.org/bioconda/get_homologues),
-    [**Docker**](https://hub.docker.com/r/csicunam/get_homologues),
+    [**[Docker]**](https://hub.docker.com/r/csicunam/get_homologues),
     [manuals and tutorials](https://github.com/eead-csic-compbio/get_homologues?tab=readme-ov-file#documentation),
-    [GitHub downloads](https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&repository=get_homologues))
+    [GitHub downloads](https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&repository=get_homologues)).
 -   [GET\_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers): software package designed to identify optimal genomic markers for phylogenomics, population genetics and genomic taxonomy.
 
 -   [**[RSAT Docker]**](https://hub.docker.com/r/biocontainers/rsat/tags): ready-to-use, requires downloading/installing genomes (see [docs](https://rsa-tools.github.io/installing-RSAT/RSAT-Docker/RSAT-Docker-tuto.html) and [protocol for coexpression motif discovery in plants](https://eead-csic-compbio.github.io/coexpression_motif_discovery)).
 -   [Multigenomic Entropy-Based
     Score (MEBS)](https://github.com/eead-csic-compbio/metagenome_Pfam_score):
     protocol for finding informative protein families and then using
-    them to score metagenomic sets
-    ([PDF](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix096/4561660))
+    them to score metagenomic sets.
 -   [Chloroplast assembly
     protocol](https://github.com/eead-csic-compbio/chloroplast_assembly_protocol):
     set of scripts for the assembly of chloroplast genomes out of
-    whole-genome sequencing reads
+    whole-genome sequencing reads.
 -   [DNAPROT](https://hub.docker.com/r/eeadcsiccompbio/dnaprot): takes protein-DNA complex in PDB
-    format and calculates structure-based position weight matrices ([manual](suppl/manual_dnaprot.pdf)), **[Docker]**
--   [primers4clades](https://hub.docker.com/r/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**
+    format and calculates structure-based position weight matrices ([manual](suppl/manual_dnaprot.pdf)), **[legacy Docker]**.
+-   [primers4clades](https://hub.docker.com/r/csicunam/primers4clades): PCR primers for cross-species amplification of sequences from metagenomic DNA or selected lineages **[legacy Docker]**.
 -   [TFcompare](https://hub.docker.com/r/eeadcsiccompbio/tfcompare): a tool for
-    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**
--   [TFmodeller](https://hub.docker.com/r/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**
+    structural alignment of DNA motifs and protein domains from DNA-binding protein complexes **[legacy Docker]**.
+-   [TFmodeller](https://hub.docker.com/r/eeadcsiccompbio/tfmodeller): comparative modelling of protein-DNA complexes **[legacy Docker]**.
     
 
 ### Assorted utilities 
@@ -84,6 +83,7 @@ Main: https://github.com/eead-csic-compbio
 
 Other repos with code contributed by members of the lab:
 
+* https://github.com/brunocontrerasmoreira
 * https://github.com/Cantalapiedra 
 * https://github.com/valdeanda/mebs
 * https://github.com/vinuesa/get_phylomarkers 
