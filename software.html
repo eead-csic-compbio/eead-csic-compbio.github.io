@@ -382,60 +382,73 @@ software</h1>
 <div id="web-resources" class="section level3">
 <h3>Web resources</h3>
 <ul>
-<li><a href="http://plants.rsat.eu">RSAT::Plants</a>: A plant-dedicated
-server for the analysis of regulatory sequences</li>
+<li><a href="http://plants.rsat.eu">RSAT::Plants</a>: server for the
+analysis of regulatory sequences in plant genomes (available also as
+Docker container).</li>
 <li><a href="https://barleymap.eead.csic.es">BARLEYMAP</a>: a tool to
-search the position of barley genetic markers on the Barley Physical Map
-and the POPSEQ map</li>
+search the position of genetic markers on barley genomic, physical and
+POPSEQ maps.</li>
+<li><a href="https://eead-csic-compbio.github.io/barley_pangenes">barley_pangenes</a>:
+clusters of gene models/alleles in a similar genomic location, linked
+from <a href="https://barleymap.eead.csic.es">BARLEYMAP</a>.</li>
+<li><a href="https://prunusmap.eead.csic.es">PRUNUSMAP</a>: a tool to
+search the position of genetic markers and protein on annotated
+<em>Prunus</em> genomes.</li>
 <li><a href="https://footprintdb.eead.csic.es">footprintDB</a>: a
 database of transcription factors with annotated cis elements and
-binding interfaces</li>
-<li><a href="https://3dfootprint.eead.csic.es">3D-footprint</a>: a
-database for the structural analysis of protein-DNA complexes</li>
-<li><a href="https://eead-csic-compbio.github.io/barley_pangenes">barley_pangenes</a>:
-clusters of gene models/alleles in a similar genomic location</li>
+binding interfaces. Includes our own databases
+<ul>
+<li><a href="https://3dfootprint.eead.csic.es">3D-footprint</a>, which
+runs structural analysis of protein-DNA complexes from the <a href="https://www.rcsb.org">Protein Data Bank</a>.</li>
+<li><a href="https://github.com/eead-csic-compbio/EEADannot">EEADannot</a>,
+with manually curated DNA motifs and cis regulatory sites, mostly from
+plants.</li>
+</ul></li>
 </ul>
 </div>
 <div id="source-code-binaries-and-docker-containers" class="section level3">
 <h3>Source code, binaries and Docker containers</h3>
 <ul>
-<li><a href="https://github.com/Ensembl/plant-scripts">plant-scripts</a>: code
+<li><p><a href="https://github.com/Ensembl/plant-scripts">plant-scripts</a>: code
 examples for interrogating <a href="https://plants.ensembl.org">Ensembl
 Plants</a> from your own scripts, masking &amp; annotating repeats and
-calling pangenes in plant genomes (<a href="https://tooomm.github.io/github-release-stats/?username=ensembl&amp;repository=plant-scripts">GitHub
-downloads</a>).</li>
-<li><a href="https://github.com/eead-csic-compbio/get_homologues">GET_HOMOLOGUES</a>:
-a versatile software package for pan-genome analysis (Linux/MacOSX Perl,
-R scripts, binaries, <a href="https://anaconda.org/bioconda/get_homologues">bioconda</a>, <a href="https://hub.docker.com/r/csicunam/get_homologues">Docker
-image</a>, <a href="http://eead-csic-compbio.github.io/get_homologues/manual/">manual</a>,
-<a href="https://doi.org/10.1128/AEM.02411-13">microbia</a>, <a href="https://doi.org/10.3389/fpls.2017.00184">plants</a>, <a href="https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&amp;repository=get_homologues">GitHub
-downloads</a>)</li>
-<li><a href="https://github.com/vinuesa/get_phylomarkers">GET_PHYLOMARKERS</a>:
+<a href="https://github.com/Ensembl/plant-scripts/tree/master/pangenes">calling
+pangenes</a> in plant genomes (<a href="https://tooomm.github.io/github-release-stats/?username=ensembl&amp;repository=plant-scripts">GitHub
+downloads</a>).</p></li>
+<li><p><a href="https://github.com/eead-csic-compbio/get_homologues">GET_HOMOLOGUES</a>:
+a versatile software package for gene-based pangenome analysis of
+microbes and plants (Linux/MacOSX Perl, R scripts, binaries, <a href="https://anaconda.org/bioconda/get_homologues">bioconda</a>, <a href="https://hub.docker.com/r/csicunam/get_homologues"><strong>Docker</strong></a>,
+<a href="https://github.com/eead-csic-compbio/get_homologues?tab=readme-ov-file#documentation">manuals
+and tutorials</a>, <a href="https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&amp;repository=get_homologues">GitHub
+downloads</a>)</p></li>
+<li><p><a href="https://github.com/vinuesa/get_phylomarkers">GET_PHYLOMARKERS</a>:
 software package designed to identify optimal genomic markers for
-phylogenomics, population genetics and genomic taxonomy.</li>
-<li><a href="https://eead-csic-compbio.github.io/coexpression_motif_discovery">coexpression_motif_discovery</a>:
-recipes to discover cis-regulatory motifs within proximal promoters of
-plants in RSAT::Plants.</li>
-<li><a href="https://github.com/eead-csic-compbio/metagenome_Pfam_score">Multigenomic
+phylogenomics, population genetics and genomic taxonomy.</p></li>
+<li><p><a href="https://hub.docker.com/r/biocontainers/rsat/tags"><strong>[RSAT
+Docker]</strong></a>: ready-to-use, requires downloading/installing
+genomes (see <a href="https://rsa-tools.github.io/installing-RSAT/RSAT-Docker/RSAT-Docker-tuto.html">docs</a>
+and <a href="https://eead-csic-compbio.github.io/coexpression_motif_discovery">protocol
+for coexpression motif discovery in plants</a>).</p></li>
+<li><p><a href="https://github.com/eead-csic-compbio/metagenome_Pfam_score">Multigenomic
 Entropy-Based Score (MEBS)</a>: protocol for finding informative protein
-families and then using them to score metagenomic sets (<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix096/4561660">PDF</a>)</li>
-<li><a href="https://github.com/eead-csic-compbio/chloroplast_assembly_protocol">Chloroplast
+families and then using them to score metagenomic sets (<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix096/4561660">PDF</a>)</p></li>
+<li><p><a href="https://github.com/eead-csic-compbio/chloroplast_assembly_protocol">Chloroplast
 assembly protocol</a>: set of scripts for the assembly of chloroplast
-genomes out of whole-genome sequencing reads</li>
-<li><a href="https://hub.docker.com/r/eeadcsiccompbio/dnaprot">DNAPROT</a>:
+genomes out of whole-genome sequencing reads</p></li>
+<li><p><a href="https://hub.docker.com/r/eeadcsiccompbio/dnaprot">DNAPROT</a>:
 takes protein-DNA complex in PDB format and calculates structure-based
 position weight matrices (<a href="suppl/manual_dnaprot.pdf">manual</a>),
-<strong>[Docker]</strong></li>
-<li><a href="https://hub.docker.com/r/csicunam/primers4clades">primers4clades</a>:
+<strong>[Docker]</strong></p></li>
+<li><p><a href="https://hub.docker.com/r/csicunam/primers4clades">primers4clades</a>:
 PCR primers for cross-species amplification of sequences from
 metagenomic DNA or selected lineages <strong>[legacy
-Docker]</strong></li>
-<li><a href="https://hub.docker.com/r/eeadcsiccompbio/tfcompare">TFcompare</a>:
+Docker]</strong></p></li>
+<li><p><a href="https://hub.docker.com/r/eeadcsiccompbio/tfcompare">TFcompare</a>:
 a tool for structural alignment of DNA motifs and protein domains from
-DNA-binding protein complexes <strong>[legacy Docker]</strong></li>
-<li><a href="https://hub.docker.com/r/eeadcsiccompbio/tfmodeller">TFmodeller</a>:
+DNA-binding protein complexes <strong>[legacy Docker]</strong></p></li>
+<li><p><a href="https://hub.docker.com/r/eeadcsiccompbio/tfmodeller">TFmodeller</a>:
 comparative modelling of protein-DNA complexes <strong>[legacy
-Docker]</strong></li>
+Docker]</strong></p></li>
 </ul>
 </div>
 <div id="assorted-utilities" class="section level3">
@@ -472,6 +485,7 @@ scripts</a></li>
 <li><a href="https://github.com/valdeanda/mebs" class="uri">https://github.com/valdeanda/mebs</a></li>
 <li><a href="https://github.com/vinuesa/get_phylomarkers" class="uri">https://github.com/vinuesa/get_phylomarkers</a></li>
 <li><a href="https://github.com/rsa-tools" class="uri">https://github.com/rsa-tools</a></li>
+<li><a href="https://github.com/Ensembl/plant-scripts" class="uri">https://github.com/Ensembl/plant-scripts</a></li>
 </ul>
 </div>
 
