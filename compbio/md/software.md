@@ -17,8 +17,7 @@ title: "Computational & structural biology software"
 
 ### Web resources 
 
-* [RSAT::Plants](http://plants.rsat.eu): A plant-dedicated server for
-    the analysis of regulatory sequences.
+* [RSAT::Plants](http://plants.rsat.eu): server for the analysis of regulatory sequences in plant genomes (available also as Docker container).
 * [BARLEYMAP](https://barleymap.eead.csic.es): a tool to
     search the position of genetic markers on barley genomic, physical and POPSEQ maps.
 * [barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes): clusters of gene models/alleles in a similar genomic location, linked from [BARLEYMAP](https://barleymap.eead.csic.es).
@@ -35,16 +34,15 @@ title: "Computational & structural biology software"
 -   [plant-scripts](https://github.com/Ensembl/plant-scripts): code examples for interrogating 
 [Ensembl Plants](https://plants.ensembl.org) from your own scripts, masking & annotating repeats and [calling pangenes](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) in plant genomes ([GitHub downloads](https://tooomm.github.io/github-release-stats/?username=ensembl&repository=plant-scripts)).
 -   [GET\_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues):
-    a versatile software package for pan-genome analysis (Linux/MacOSX
+    a versatile software package for gene-based pangenome analysis of microbes and plants (Linux/MacOSX
     Perl, R scripts, binaries, 
     [bioconda](https://anaconda.org/bioconda/get_homologues),
-    [Docker image](https://hub.docker.com/r/csicunam/get_homologues),
-    [manual](http://eead-csic-compbio.github.io/get_homologues/manual/),
-    [microbia](https://doi.org/10.1128/AEM.02411-13),
-    [plants](https://doi.org/10.3389/fpls.2017.00184),
+    [**Docker**](https://hub.docker.com/r/csicunam/get_homologues),
+    [manuals and tutorials](https://github.com/eead-csic-compbio/get_homologues?tab=readme-ov-file#documentation),
     [GitHub downloads](https://tooomm.github.io/github-release-stats/?username=eead-csic-compbio&repository=get_homologues))
 -   [GET\_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers): software package designed to identify optimal genomic markers for phylogenomics, population genetics and genomic taxonomy.
--   [coexpression_motif_discovery](https://eead-csic-compbio.github.io/coexpression_motif_discovery): recipes to discover cis-regulatory motifs within proximal promoters of plants in RSAT::Plants.
+
+-   [**[RSAT Docker]**](https://hub.docker.com/r/biocontainers/rsat/tags): ready-to-use, requires downloading/installing genomes (see [docs](https://rsa-tools.github.io/installing-RSAT/RSAT-Docker/RSAT-Docker-tuto.html) and [protocol for coexpression motif discovery in plants](https://eead-csic-compbio.github.io/coexpression_motif_discovery)).
 -   [Multigenomic Entropy-Based
     Score (MEBS)](https://github.com/eead-csic-compbio/metagenome_Pfam_score):
     protocol for finding informative protein families and then using
