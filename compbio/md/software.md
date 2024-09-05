@@ -17,23 +17,23 @@ title: "Computational & structural biology software"
 
 ### Web resources 
 
--   [RSAT::Plants](http://plants.rsat.eu): A plant-dedicated server for
-    the analysis of regulatory sequences
--   [BARLEYMAP](https://barleymap.eead.csic.es): a tool to
-    search the position of genetic markers on barley genomic, physical and POPSEQ maps
--   [footprintDB](https://footprintdb.eead.csic.es): a database
-    of transcription factors with annotated cis elements and binding
-    interfaces
--   [3D-footprint](https://3dfootprint.eead.csic.es): a
-    database for the structural analysis of protein-DNA complexes
--   [barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes): clusters of gene models/alleles in a similar genomic location
--   [PRUNUSMAP](https://prunusmap.eead.csic.es): a tool to
-    search the position of genetic markers and protein on annotated Prunus genomes
+* [RSAT::Plants](http://plants.rsat.eu): A plant-dedicated server for
+    the analysis of regulatory sequences.
+* [BARLEYMAP](https://barleymap.eead.csic.es): a tool to
+    search the position of genetic markers on barley genomic, physical and POPSEQ maps.
+* [barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes): clusters of gene models/alleles in a similar genomic location, linked from [BARLEYMAP](https://barleymap.eead.csic.es).
+* [PRUNUSMAP](https://prunusmap.eead.csic.es): a tool to
+    search the position of genetic markers and protein on annotated *Prunus* genomes.
+* [footprintDB](https://footprintdb.eead.csic.es): a database
+    of transcription factors with annotated cis elements and binding interfaces. Includes our own databases
+  * [3D-footprint](https://3dfootprint.eead.csic.es), which runs structural analysis of protein-DNA complexes from the [Protein Data Bank](https://www.rcsb.org). 
+  * [EEADannot](https://github.com/eead-csic-compbio/EEADannot), with manually curated DNA motifs and cis regulatory sites, mostly from plants.
+
     
 ### Source code, binaries and Docker containers
 
 -   [plant-scripts](https://github.com/Ensembl/plant-scripts): code examples for interrogating 
-[Ensembl Plants](https://plants.ensembl.org) from your own scripts, masking & annotating repeats and calling pangenes in plant genomes ([GitHub downloads](https://tooomm.github.io/github-release-stats/?username=ensembl&repository=plant-scripts)).
+[Ensembl Plants](https://plants.ensembl.org) from your own scripts, masking & annotating repeats and [calling pangenes](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) in plant genomes ([GitHub downloads](https://tooomm.github.io/github-release-stats/?username=ensembl&repository=plant-scripts)).
 -   [GET\_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues):
     a versatile software package for pan-genome analysis (Linux/MacOSX
     Perl, R scripts, binaries, 
@@ -90,4 +90,5 @@ Other repos with code contributed by members of the lab:
 * https://github.com/valdeanda/mebs
 * https://github.com/vinuesa/get_phylomarkers 
 * https://github.com/rsa-tools
+* https://github.com/Ensembl/plant-scripts
 
