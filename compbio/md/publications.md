@@ -117,30 +117,32 @@ title: Computational & structural biology publications
 
 ### PhD & Master theses
 
--   **María Ángeles Decena** (2023) Evolution of allopolyploidy in species of the model genus Brachypodium (Poaceae) using genomic, transcriptomic, cytogenetic and phenotypic approaches. PhD thesis, Universidad de Zaragoza.
--   **Abdalrahem A** (2022) Exploring the panregulome of grasses with model species Brachypodium distachyon. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://digital.csic.es/handle/10261/284710))
--   **Sancho Cohen R** (2018) Genome annotation, comparative genomics and evolution of the model grass genus Brachypodium (Poaceae). PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/98297))
+-   **Ksouri N** (2024) Bioinformatics for Advancing Peach Genetic Improvements. PhD
+    thesis, Universidad de Zaragoza ([PDF](https://digital.csic.es/handle/10261/359577)).
+-   **María Ángeles Decena** (2023) Evolution of allopolyploidy in species of the model genus Brachypodium (Poaceae) using genomic, transcriptomic, cytogenetic and phenotypic approaches. PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/135286)).
+-   **Abdalrahem A** (2022) Exploring the panregulome of grasses with model species Brachypodium distachyon. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://digital.csic.es/handle/10261/284710)).
+-   **Sancho Cohen R** (2018) Genome annotation, comparative genomics and evolution of the model grass genus Brachypodium (Poaceae). PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/98297)).
 -   **de Anda Torres VY** (2018) La metagenómica como herramienta de
     conservación de Cuatro Ciénegas Coahuila: el caso del ciclo
     del azufre. PhD thesis, Universidad Nacional Autónoma de México
-    ([PDF](http://oreon.dgbiblio.unam.mx/F/L1S8MKDS5TTA4TR11NBHPPD6JE83RLANXRE5RRSMBGGTQP4UYY-09317?func=full-set-set&set_number=001392&set_entry=000001&format=999))
--   **Montardit F** (2018) Genomic delimitation of proximal promoter regions: three approaches in Prunus persica. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://agris.fao.org/agris-search/search.do?recordID=QC2019600125))
+    ([PDF](http://oreon.dgbiblio.unam.mx/F/L1S8MKDS5TTA4TR11NBHPPD6JE83RLANXRE5RRSMBGGTQP4UYY-09317?func=full-set-set&set_number=001392&set_entry=000001&format=999)).
+-   **Montardit F** (2018) Genomic delimitation of proximal promoter regions: three approaches in Prunus persica. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](https://agris.fao.org/agris-search/search.do?recordID=QC2019600125)).
 -   **Cantalapiedra CP** (2016) Accessing genetic variability in Spanish
     barleys through high-throughput sequencing. PhD thesis, Universitat
     Autonoma de Barcelona
-    ([PDF](https://digital.csic.es/handle/10261/141791))
+    ([PDF](https://digital.csic.es/handle/10261/141791)).
 -   **Ksouri N** (2016) Transcriptional Responses in Prunus persica
     under Conditions of Drought Stress using RNA Sequencing. Master
     thesis, CIHEAM-Universitat de Lleida
     ([PDF](http://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf),
-    [talk](http://www.ciheam.org/uploads/attachments/571/4._KSOURI_Thesis_PPT_presentation.pdf))
+    [talk](http://www.ciheam.org/uploads/attachments/571/4._KSOURI_Thesis_PPT_presentation.pdf)).
 -   **Contreras-Moreira B** (2004). Algorithms for protein comparative
     modelling and some evolutionary implications. PhD thesis
     (Biochemistry), University of London.
     ([PDF](./papers/PhD_thesis_Bruno_Contreras-Moreira2003.pdf),
-    [talk](./papers/exit_cruk2004.pdf))
+    [talk](./papers/exit_cruk2004.pdf)).
 -   **Yruela I** (1989). Geoquímica orgánica de cuencas lacustres y marismas. Tesis doctoral, Universidad de Sevilla.
-    ([PDF](https://idus.us.es/handle/11441/78996))
+    ([PDF](https://idus.us.es/handle/11441/78996)).
     
 
 ### Supplementary materials of publications
