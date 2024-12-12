@@ -62,6 +62,8 @@ bioinformática](http://www.eead.csic.es/compbio/material/paseo_bioinfo)
 
 ### Divulgación
 
+* Yruela I (2025) El desprendimiento de oxígeno en la fotosíntesis se descubrió hace 55 años. [20minutos: Ciencia para llevar](https://www.20minutos.es/ciencia/blogs/ciencia-para-llevar-csic/desprendimiento-oxigeno-fotosintesis-se-descubrio-hace-55-anos-5649730)
+
 * Yruela I (2024) Artificial photosynthesis: fifty-five years of research to colonize space [FEBS Network](https://bit.ly/43bPBGw) 
 
 * Contreras-Moreira B (2024) [Computational plant genomics and resistance to climate change](https://www.youtube.com/watch?v=LSOGOgnwhhk&t=9460s), 
