@@ -30,6 +30,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 
 ### Previous members / visitors
 
+-   [Fabián Robledo](https://www.linkedin.com/in/fabian-robledo) (Ene2025), personal del I2SysBio de estancia dentro de proyecto CSIC INFRA24018 [GitHub](https://github.com/rsa-tools/rsat-code/releases/tag/2025-03-26)
 -   [Najla Ksouri](https://orcid.org/0000-0001-8956-2920)
     (Sept2015-Oct2016 [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf), Apr2018-Jun2023 [PhD](https://digital.csic.es/handle/10261/359577), co-supervised by Yolanda Gogorcena)
 -   Íñigo Verón Mansilla (Feb2024-Mar2024), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/iniverman/barley-variant-calling)
