@@ -23,6 +23,9 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [DIGITAL.CSIC](https://digital.csic.es/cris/rp/rp02621) [Twitter](https://twitter.com/InmaYruela), leads [GBsC](https://www.csic.es/es/investigacion/unidades-asociadas/grupo-de-bioquimica-biofisica-y-biologia-computacional)
 -   [Sara Herrera](https://www.linkedin.com/in/sara-herrera-phd-5500711ab) (Dec2024-), [MOMENTUM](https://momentum.csic.es/en/momentum-program/) program
 <!-- [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en) -->
+-   [Francesc Montardit Tardá](https://www.researchgate.net/profile/Francesc-Montardit-Tarda)
+    (Feb2025-, Sept2017-Oct2018, [MSc](https://digital.csic.es/handle/10261/176678) co-directed by Y Gogorcena)
+<!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
 -   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho
@@ -49,9 +52,6 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
     co-directed by A Casas)
 -   [Rubén Sancho Cohen](https://www.researchgate.net/profile/Ruben-Sancho)
     (Jan2014-Sep2018, [PhD](https://digital.csic.es/handle/10261/174792) co-directed by Pilar Catalán)
--   [Francesc Montardit
-    Tardá](http://www.eead.csic.es/home/staffinfo?Id=587)
-    (Sept2017-Oct2018, [MSc](https://agris.fao.org/agris-search/search.do?recordID=QC2019600125) co-directed by Y Gogorcena)
 -   [Valerie de
     Anda Torres](https://scholar.google.es/citations?user=Bom_ztkAAAAJ&hl=es)
     (Jul2014, Oct2016-Aug2018, [PhD](http://132.248.9.195/ptd2018/junio/0775359/Index.html) at Inst Ecología-UNAM, México)
