@@ -19,12 +19,15 @@ title: Computational & structural biology group members
 
 See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
--   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X) [Twitter](https://twitter.com/BrunoContrerasM) (funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
+-   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X)
+<!--[bsky](https://bsky.app/profile/brunocontrerasm.bsky.social)
+[Twitter](https://twitter.com/BrunoContrerasM) -->
+(funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [DIGITAL.CSIC](https://digital.csic.es/cris/rp/rp02621) [Twitter](https://twitter.com/InmaYruela), leads [GBsC](https://www.csic.es/es/investigacion/unidades-asociadas/grupo-de-bioquimica-biofisica-y-biologia-computacional)
 -   [Sara Herrera](https://www.linkedin.com/in/sara-herrera-phd-5500711ab) (Dec2024-), [MOMENTUM](https://momentum.csic.es/en/momentum-program/) program
 <!-- [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en) -->
 -   [Francesc Montardit Tardá](https://www.researchgate.net/profile/Francesc-Montardit-Tarda)
-    (Feb2025-, Sept2017-Oct2018, [MSc](https://digital.csic.es/handle/10261/176678) co-directed by Y Gogorcena)
+    (Feb2025-, Sept2017-Oct2018, [MSc](http://hdl.handle.net/10261/387927) co-directed by Y Gogorcena)
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
