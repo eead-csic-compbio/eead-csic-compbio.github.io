@@ -4,9 +4,7 @@ use strict;
 my ($chr,$start,$end,$strand,$multi1toN,$genome,$sum); # indiv genome
 my ($gchr,$gstart,$gend,$gstrand,$gsum,$intvl); # graph
 
-#my $MAXGAP=1000; # see exception, max gap between consecutive intervals
-
-# exceptions -> 1toN regions matches:
+# 1toN regions matches examples:
 #
 #zcat *vcf.gz |perl -lne 'if(/Regions=\"/){ print }' 
 #1to2
