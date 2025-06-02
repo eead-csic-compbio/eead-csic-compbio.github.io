@@ -33,6 +33,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
 -   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho
 -   Irene Puyó Iguaz (Nov2024-), undergraduate from [USJ](https://www.usj.es)
+-   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-), estudiante en prácticas de [UOC](https://www.uoc.edu)
 
 ### Previous members / visitors
 
