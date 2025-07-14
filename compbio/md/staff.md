@@ -43,7 +43,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 -   Íñigo Verón Mansilla (Feb2024-Mar2024), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/iniverman/barley-variant-calling)
 -   Carmen Miravete Bernal (Nov2023-Dic2023), undergraduate from [USJ](https://www.usj.es), [GitHub](https://github.com/carmenmiravete/barley_variant_calling)
 -   [María Ángeles Decena](https://www.researchgate.net/profile/Maria-Angeles-Decena-Rodriguez) (Sep2018-Dec2023,
-    PhD co-supervised by Pilar Catalán at [UZaragoza](https://eps.unizar.es))
+    [PhD](https://zaguan.unizar.es/record/135286) co-supervised by Pilar Hernández and Pilar Catalán at [UZaragoza](https://eps.unizar.es))
 -   [Javier Falcó Martí](https://www.linkedin.com/in/javierfalcomarti), intern Master's student at [UZaragoza](http://www.unizar.es) (Jun2023-Jul2023)
 -   Giuliana Morabito, intern student at [UZaragoza](http://www.unizar.es) (Jun2023-Jul2023)
 -   Gonzalo Díaz Elías (Mar2022-Jan2023), undergraduate from [USJ](https://www.usj.es)  
