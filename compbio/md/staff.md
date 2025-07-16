@@ -31,12 +31,12 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
--   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho
 -   Irene Puyó Iguaz (Nov2024-), undergraduate from [USJ](https://www.usj.es)
 -   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-), estudiante en prácticas de [UOC](https://www.uoc.edu)
 
 ### Previous members / visitors
 
+-   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-Jul2025), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho, [GitHub](https://github.com/Hamzaamhal09)
 -   [Fabián Robledo](https://www.linkedin.com/in/fabian-robledo) (Ene2025), personal del I2SysBio de estancia dentro de proyecto CSIC INFRA24018 [GitHub](https://github.com/rsa-tools/rsat-code/releases/tag/2025-03-26)
 -   [Najla Ksouri](https://orcid.org/0000-0001-8956-2920)
     (Sept2015-Oct2016 [MSc](https://www.ciheam.org/uploads/attachments/572/3._KSOURI_Full_Thesis.pdf), Apr2018-Jun2023 [PhD](https://digital.csic.es/handle/10261/359577), co-supervised by Yolanda Gogorcena)
@@ -48,7 +48,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 -   Giuliana Morabito, intern student at [UZaragoza](http://www.unizar.es) (Jun2023-Jul2023)
 -   Gonzalo Díaz Elías (Mar2022-Jan2023), undergraduate from [USJ](https://www.usj.es)  
 -   [Nikola Korinkova](https://www.researchgate.net/profile/Nikola-Korinkova) (Sep2022-Dec2022), visiting PhD student from [Palacký University in Olomouc](https://www.upol.cz/en)
--   [Ammar Abdalrahem](https://www.linkedin.com/in/ammar-abdalrahem) (Oct2021-Oct2022, [MSc](https://digital.csic.es/handle/10261/284710) from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
+-   [Ammar Abdalrahem](https://www.linkedin.com/in/ammarabdalrahem) (Oct2021-Oct2022, [MSc](https://digital.csic.es/handle/10261/284710) from [IAMZ](https://www.iamz.ciheam.org), [GitHub](https://github.com/ammarabdalrahem/panregulome-analysis)) 
 -   [Carlos P.
     Cantalapiedra](https://scholar.google.com/citations?user=fa8RszgAAAAJ)
     (Jul-Nov2010,Sep2011-Sep2015,Feb2016-Sep2018,
