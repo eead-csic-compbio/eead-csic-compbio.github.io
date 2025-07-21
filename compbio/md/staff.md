@@ -124,12 +124,12 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 - [Pablo Vinuesa](http://www.ccg.unam.mx/%7Evinuesa/), Centro de Ciencias Genómicas-UNAM, México
 - [Milagros Medina, Patricia Ferreira, Marta Martínez Júlvez](http://bifi.es), BIFI-Universidad de Zaragoza 
 - [Jesús I Martínez](http://www.unizar.es/icma/depart/epr/epr.htm), ICMA-CSIC-Universidad de Zaragoza 
-- [Inés García-Rubio](http://cud.unizar.es/inesgrubio), Centro Universitario de la Defensa, Zaragoza 
+- Inés García-Rubio](https://fmc.unizar.es/personal/garcia-rubio-ines), Centro Universitario de la Defensa, Zaragoza 
 - the [RSAT team](http://rsat.eead.csic.es/plants/people.php)
 - the [ELIXIR Plant community](https://elixir-europe.org/communities/plant-sciences)
 - [Ensembl Plants](https://plants.ensembl.org), [Gramene](https://www.gramene.org), [UniProt](https://www.uniprot.org) and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
 - the partners of [SOIL O-LIVE](https://soilolive.eu),
-[GENDIBAR](https://www.gendibar.com) and   [RECOBAR](https://www.era-learn.eu/network-information/networks/suscrop/3rd-transnational-joint-call-on-sustainable-crop-production-with-facce-jpi/recovering-and-exploiting-old-and-new-barley-diversity-for-future-ready-agriculture)
+GENDIBAR and   [RECOBAR](https://www.era-learn.eu/network-information/networks/suscrop/3rd-transnational-joint-call-on-sustainable-crop-production-with-facce-jpi/recovering-and-exploiting-old-and-new-barley-diversity-for-future-ready-agriculture)
 
 
 <!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
