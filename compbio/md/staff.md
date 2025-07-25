@@ -31,8 +31,8 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
--   Irene Puyó Iguaz (Nov2024-), undergraduate from [USJ](https://www.usj.es)
--   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-), estudiante en prácticas de [UOC](https://www.uoc.edu)
+-   Irene Puyó Iguaz (Nov2024-Sep2025), undergraduate from [USJ](https://www.usj.es)
+-   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-Ago2025), estudiante en prácticas de [UOC](https://www.uoc.edu)
 
 ### Previous members / visitors
 

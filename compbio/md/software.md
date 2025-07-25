@@ -88,5 +88,6 @@ Other repos with code contributed by members of the lab:
 * https://github.com/valdeanda/mebs
 * https://github.com/vinuesa/get_phylomarkers 
 * https://github.com/rsa-tools
+* https://github.com/najlaksouri/GWAS-Workflow
 * https://github.com/Ensembl/plant-scripts
 
