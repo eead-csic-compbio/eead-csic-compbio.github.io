@@ -15,13 +15,21 @@ title: "Computational & structural biology @EEAD-CSIC"
 </table>
 
 The Computational & Structural Biology Group at [EEAD-CSIC](https://www.eead.csic.es) lies at the intersection of computational and structural biology, genomics and plant breeding. Our main activities are the development of software and databases for the analysis of genomic and agroclimatic data, as well as structural and evolutionary studies of protein families. We collaborate with research groups from EEAD-CSIC, different universities and CSIC hubs [BCB](https://conexion-bcb.csic.es) and [Life](https://lifehub.csic.es). The group is part of the 
-[INB/ELIXIR ES](https://inb-elixir.es/about-inb/inb-nodes) node and represents CSIC at partnership Agriculture of Data.  
+[INB/ELIXIR ES](https://inb-elixir.es/about-inb/inb-nodes) node and represents CSIC at the European Partnership of Agriculture of Data. Recent projects include 
+[PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1), 
+[SOIL O-LIVE](https://soilolive.eu), 
+[RECOBAR](https://www.era-learn.eu/network-information/networks/suscrop/3rd-transnational-joint-call-on-sustainable-crop-production-with-facce-jpi/recovering-and-exploiting-old-and-new-barley-diversity-for-future-ready-agriculture),
+[Momentum](https://momentum.csic.es/en) or 
+CSIC's INFRA24018.
 
 Our current research lines are:
 
 - (Pan)genomics and transcriptional regulation of grasses
 - High-resolution agroclimatic indices for field trials and adaptation studies
 - Evolutionary and structural analysis of ductile proteins (IDPs) and flavoenzymes
+
+
+
 
 
 ![](pics/EEAD2024.jpg)

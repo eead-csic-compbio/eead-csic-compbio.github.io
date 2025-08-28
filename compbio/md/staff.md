@@ -17,7 +17,7 @@ title: Computational & structural biology group members
 
 ### Current members of the lab 
 
-See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/laboDic2023.jpeg), [2023Jul](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
+See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/laboDic2024.jpeg), [2023](pics/laboDic2023.jpeg), [2023](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
 -   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X)
 <!--[bsky](https://bsky.app/profile/brunocontrerasm.bsky.social)
@@ -32,10 +32,10 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
 -   Irene Puyó Iguaz (Nov2024-Sep2025), undergraduate from [USJ](https://www.usj.es)
--   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-Ago2025), estudiante en prácticas de [UOC](https://www.uoc.edu)
 
 ### Previous members / visitors
 
+-   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-Ago2025), prácticas [UOC](https://www.uoc.edu), [GitHub](https://github.com/JaviETricas/EnsambladorAutonomoCloroplastos)
 -   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-Jul2025), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho, [GitHub](https://github.com/Hamzaamhal09)
 -   [Fabián Robledo](https://www.linkedin.com/in/fabian-robledo) (Ene2025), personal del I2SysBio de estancia dentro de proyecto CSIC INFRA24018 [GitHub](https://github.com/rsa-tools/rsat-code/releases/tag/2025-03-26)
 -   [Najla Ksouri](https://orcid.org/0000-0001-8956-2920)
@@ -116,7 +116,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
     research](https://www.csic.es/es/formacion-y-empleo/formacion-de-personal-investigador/grado/becas-de-introduccion) program.
 
 
-### Current collaborators
+<!--### Current collaborators
 
 - [Ana Casas](http://www.eead.csic.es/home/staffinfo?Id=67), [Ernesto Igartua](http://www.eead.csic.es/home/staffinfo?Id=69), Estación Experimental de Aula Dei-CSIC
 - [Pilar Catalán](http://bifi.es/bioflora/research-team/profile1.html), EPS Huesca, Universidad de Zaragoza
@@ -130,6 +130,7 @@ See some pics of the group: [2024Dec](pics/laboDic2024.jpeg), [2023Dec](pics/lab
 - [Ensembl Plants](https://plants.ensembl.org), [Gramene](https://www.gramene.org), [UniProt](https://www.uniprot.org) and the partners of [PanOryza](https://gtr.ukri.org/projects?ref=BB%2FT015691%2F1)
 - the partners of [SOIL O-LIVE](https://soilolive.eu),
 GENDIBAR and   [RECOBAR](https://www.era-learn.eu/network-information/networks/suscrop/3rd-transnational-joint-call-on-sustainable-crop-production-with-facce-jpi/recovering-and-exploiting-old-and-new-barley-diversity-for-future-ready-agriculture)
+-->
 
 
 <!--Dras. María Fillat, Teresa Bes, María Luisa Peleato, BIFI-Universidad de Zaragoza, http://www.bioquz.es/bioquimica/transcriptionalRegulationFotoPresentacion.do?enlaceSubmenu=TranscriptionalRegulation&enlaceMenu=grupos -->
