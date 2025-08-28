@@ -17,7 +17,7 @@ title: Computational & structural biology group members
 
 ### Current members of the lab 
 
-See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/laboDic2024.jpeg), [2023](pics/laboDic2023.jpeg), [2023](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
+See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/laboDic2024.jpeg), [2023a](pics/laboDic2023.jpeg), [2023b](pics/fotoGrupoJul2023.png), [2022](pics/fotoGrupoSept2022.jpg), [2018](pics/fotoGrupoJun2018.jpeg), [2017](pics/fotoGrupoSept2017.jpeg)
 
 -   [Bruno Contreras Moreira](https://www.eead.csic.es/home/staffinfo?Id=71): [ORCiD](https://orcid.org/0000-0002-5462-907X)
 <!--[bsky](https://bsky.app/profile/brunocontrerasm.bsky.social)
