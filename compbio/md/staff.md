@@ -31,10 +31,10 @@ See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/labo
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
--   Irene Puyó Iguaz (Nov2024-Sep2025), undergraduate from [USJ](https://www.usj.es)
 
 ### Previous members / visitors
 
+-   [Irene Puyó Iguaz](https://www.linkedin.com/in/irene-puy%C3%B3-iguaz) (Nov2024-Sep2025), undergraduate from [USJ](https://www.usj.es), prácticas & TFG, [GitHub](https://github.com/IrenePuyo/Assembly-annotation-and-taxonomical-classification-of-a-Bacillus-strain) 
 -   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-Ago2025), prácticas [UOC](https://www.uoc.edu), [GitHub](https://github.com/JaviETricas/EnsambladorAutonomoCloroplastos)
 -   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-Jul2025), [IAMZ](https://www.iamz.ciheam.org) MSc co-supervised by Rubén Sancho, [GitHub](https://github.com/Hamzaamhal09)
 -   [Fabián Robledo](https://www.linkedin.com/in/fabian-robledo) (Ene2025), personal del I2SysBio de estancia dentro de proyecto CSIC INFRA24018 [GitHub](https://github.com/rsa-tools/rsat-code/releases/tag/2025-03-26)
