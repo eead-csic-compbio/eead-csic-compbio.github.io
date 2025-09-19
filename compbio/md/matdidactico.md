@@ -22,13 +22,13 @@ title: Computational & structural biology outreach
 * [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022)
 
 * [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
-(2008-22) [[PDF](http://digital.csic.es/handle/10261/21892)]
+(2008-25) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
-* [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020-23)
+* [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020-25)
+
+* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-25)
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
-
-* [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-23)
 
 * [Tuning promoter boundaries improves regulatory motif discovery in non-model plants: the peach example](https://eead-csic-compbio.github.io/coexpression_motif_discovery/peach/Tutorial.html) (2020)
 
