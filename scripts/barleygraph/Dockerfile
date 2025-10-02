@@ -59,7 +59,6 @@ SHELL ["conda", "run", "--no-capture-output", "-n", "phgv2-conda", "/bin/bash", 
 #
 # export VERSION=`date '+%Y%m%d'`
 # export DREPO=eeadcsiccompbio/barleygraph-med13
-# export VERSION=`date '+%Y%m%d'` 
 # docker build --build-arg graph=Med13 --tag ${DREPO}:${VERSION} --tag ${DREPO}:latest --force-rm --compress .
 # or
 # export DREPO=eeadcsiccompbio/barleygraph-pan20
