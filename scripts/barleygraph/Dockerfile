@@ -69,7 +69,7 @@ SHELL ["conda", "run", "--no-capture-output", "-n", "phgv2-conda", "/bin/bash", 
 #  
 # 3) Launch container:
 # 3.1) make GMAP index if required
-# docker run --rm -v ~/local_gmap_db/:/gmap_db/ -it eeadcsiccompbio/barleygraph-med13 index
+# docker run --rm -v ~/local_gmap_db/:/gmap_db/ -it eeadcsiccompbio/barleygraph:Med13-latest index
 #
 # 3.2) map FASTA sequences
-# docker run --rm -v ~/local_gmap_db/:/gmap_db/ -it eeadcsiccompbio/barleygraph-med13 align2graph test.fa
+# docker run --rm -v ~/local_gmap_db/:/gmap_db/ -it eeadcsiccompbio/barleygraph:Med13-latest align2graph test.fa
