@@ -57,10 +57,13 @@ SHELL ["conda", "run", "--no-capture-output", "-n", "phgv2-conda", "/bin/bash", 
 #
 # 1) Build container
 #
-# export RSATDOCKERVERSION=`date '+%Y%m%d'` 
-# docker build --build-arg graph=Med13 --tag rsat:$RSATDOCKERVERSION --tag eeadcsiccompbio/barleygraph-med13:latest --force-rm --compress .
+# export VERSION=`date '+%Y%m%d'`
+# export DREPO=eeadcsiccompbio/barleygraph-med13
+# export VERSION=`date '+%Y%m%d'` 
+# docker build --build-arg graph=Med13 --tag ${DREPO}:${VERSION} --tag ${DREPO}:latest --force-rm --compress .
 # or
-# docker build --build-arg graph=Pan20 --tag rsat:$RSATDOCKERVERSION --tag eeadcsiccompbio/barleygraph-med13:latest --force-rm --compress .
+# export DREPO=eeadcsiccompbio/barleygraph-pan20
+# docker build --build-arg graph=Pan20 --tag ${DREPO}:${VERSION} --tag ${DREPO}:latest --force-rm --compress .
 # 
 # 2) Create local folder for GMAP indices, outside the container, as these are bulky
 #
