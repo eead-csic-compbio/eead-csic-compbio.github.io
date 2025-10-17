@@ -19,7 +19,7 @@ title: Computational & structural biology outreach
 
 * [#!/perl/bioinfo](http://bioinfoperl.blogspot.com/): una bitácora sobre programación en bioinformática (2010-)
 
-* [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022)
+* [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022-2025)
 
 * [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
 (2008-25) [[PDF](http://digital.csic.es/handle/10261/21892)]
@@ -27,6 +27,8 @@ title: Computational & structural biology outreach
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020-25)
 
 * [Bioinformatics resources and best-practices for plant-breeders](https://eead-csic-compbio.github.io/bioinformatics/) (2021-25)
+
+* [Pangenómica de cereales en la Web](https://digital.csic.es/handle/10261/402878) (2025)
 
 * [Analysis of crop genomics data](http://training.ensembl.org/events/2021/2021-03-01-CABANA) (2021)
 
