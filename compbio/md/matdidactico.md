@@ -75,7 +75,7 @@ parte del lanzamiento de la Conexión CSIC Biología Computacional y Bioinformá
 
 * Contreras-Moreira B, Matamoros M (2023) [Bioquímica en la ciudad: “Plantoquímica”](https://eead-csic-compbio.github.io/plantoquimica). 
 
-* Contreras-Moreira B, Montardit F (2022) [Ensamblaje y anotación de un gen](https://docs.google.com/presentation/d/1cdVqYEJb8iCSjjlGOZ0ToF6pLvNQiInNDn6TbJ7AuMk/edit?usp=sharing). 
+* Contreras-Moreira B, Montardit F, J Sàrria, R Sancho (2022-25) [Ensamblaje y anotación de un gen](https://docs.google.com/presentation/d/1cdVqYEJb8iCSjjlGOZ0ToF6pLvNQiInNDn6TbJ7AuMk/edit?usp=sharing). 
 
 * Contreras-Moreira B (2022) Investigadores aragoneses diseñan una herramienta para identificar subgenomas vegetales "fantasma". [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/huesca/2022/03/01/investigadores-aragoneses-disenan-una-herramienta-para-identificar-subgenomas-vegetales-fantasma-1556672.html) ([artículo original](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15650))
 
