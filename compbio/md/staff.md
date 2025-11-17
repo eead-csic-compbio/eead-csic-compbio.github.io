@@ -31,6 +31,7 @@ See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/labo
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
+-   [Sheila Salinas Ortiz](https://www.linkedin.com/in/sheila-salinas-ortiz-968b17236) (Nov2025-) , undergraduate from [USJ](https://www.usj.es), prácticas
 
 ### Previous members / visitors
 
