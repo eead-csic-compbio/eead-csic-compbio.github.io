@@ -119,6 +119,7 @@ title: Computational & structural biology publications
 
 ### PhD & Master theses
 
+-   **Amhal H** (2025) Discovering haplotypes for adaptation in Spanish barley landraces: the case of chromosome 5H. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](http://hdl.handle.net/10261/407574)).
 -   **Ksouri N** (2024) Bioinformatics for Advancing Peach Genetic Improvements. PhD
     thesis, Universidad de Zaragoza ([PDF](https://digital.csic.es/handle/10261/359577)).
 -   **María Ángeles Decena** (2023) Evolution of allopolyploidy in species of the model genus Brachypodium (Poaceae) using genomic, transcriptomic, cytogenetic and phenotypic approaches. PhD thesis, Universidad de Zaragoza ([PDF](https://zaguan.unizar.es/record/135286)).
