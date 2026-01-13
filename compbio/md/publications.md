@@ -24,7 +24,7 @@ title: Computational & structural biology publications
 
 <ol>
 
-<li>Najla K, Abdalrahem A, Montardit-Tarda F, Castro-Mondragón JA, van Helden J, Gogorcena Y & **Contreras-Moreira B** (2026) Web-Based Discovery of Regulatory Motifs in Non-model Plants. In: Franco-Zorrilla, J.M., Martín-Pizarro, C. (eds) Plant Transcription Factors. Methods in Molecular Biology, vol 2985. Humana, New York, NY. [10.1007/978-1-0716-4972-5_14](https://doi.org/10.1007/978-1-0716-4972-5_14).</li>
+<li>Ksouri N, Abdalrahem A, Montardit-Tarda F, Castro-Mondragón JA, van Helden J, Gogorcena Y & **Contreras-Moreira B** (2026) Web-Based Discovery of Regulatory Motifs in Non-model Plants. In: Franco-Zorrilla, J.M., Martín-Pizarro, C. (eds) Plant Transcription Factors. Methods in Molecular Biology, vol 2985. Humana, New York, NY. [10.1007/978-1-0716-4972-5_14](https://doi.org/10.1007/978-1-0716-4972-5_14).</li>
 
 <li>**Contreras-Moreira B**, Rodríguez del Río A, Cantalapiedra CP, Sancho R, Vinuesa P (2022) Pangenome Analysis of Plant Transcripts and Coding Sequences. In: Pereira-Santana A, Gamboa-Tuz SD, Rodríguez-Zapata LC (eds) Plant Comparative Genomics. Methods in Molecular Biology, vol 2512. Humana, New York, NY. [10.1007/978-1-0716-2429-6_9](https://doi.org/10.1007/978-1-0716-2429-6_9).</li>
 
