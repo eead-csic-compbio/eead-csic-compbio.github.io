@@ -11,6 +11,8 @@ Each has its own README file with details on how it was obtained.
 |[MorexV2_MorexV3.liftoff.f0.50.tsv](./MorexV2_MorexV3.liftoff.f0.50.tsv)|MorexV2 to MorexV3 LiftOff mapping of barley gene identifiers|[README](MorexV2_MorexV3.liftoff.f0.50.README.md)|
 |[IBSCv2_MorexV3.liftoff.f0.50.tsv](./IBSCv2_MorexV3.liftoff.f0.50.tsv)|IBSCv2 to MorexV3  mapping of barley gene identifiers|[README](IBSCv2_MorexV3.liftoff.f0.50.README.md)|
 |[180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.tsv](./180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.tsv)|Mapping VCF positions from Milner 2019 to MorexV3|[README](180606_GBS_all_22621_samples_171263_SNPs.MorexV3.coords.README.md)|
-|[barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes)|pangene clusters of barley|Pangenes comprising 22 barley annotations including MorexV3 & BaRTv2 gene 
+|[barley_pangenes](https://eead-csic-compbio.github.io/barley_pangenes)|pangene clusters of barley|Pangenes comprising 22 barley annotations including MorexV3 & BaRTv2 gene|
+|[popseq2017.morexv3](https://github.com/Cantalapiedra/barleymap/releases/tag/popseq2017.morexv3)|Table of IBSC2012 contigs with physical (MorexV3) and genetic positions (popseq2017)|
+
 
 
