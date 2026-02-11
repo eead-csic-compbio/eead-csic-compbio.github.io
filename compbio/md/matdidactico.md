@@ -22,7 +22,7 @@ title: Computational & structural biology outreach
 * [Pangenome analysis of plant transcripts and coding sequences](http://eead-csic-compbio.github.io/get_homologues/plant_pangenome/protocol.html) (2022-2025)
 
 * [Algoritmos en bioinformática estructural](http://eead-csic-compbio.github.io/bioinformatica_estructural)
-(2008-25) [[PDF](http://digital.csic.es/handle/10261/21892)]
+(2008-26) [[PDF](http://digital.csic.es/handle/10261/21892)]
 
 * [Scripting with the Linux shell](https://github.com/eead-csic-compbio/scripting_linux_shell) (2020-25)
 
