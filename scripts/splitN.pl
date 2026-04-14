@@ -4,7 +4,6 @@ use warnings;
 
 # Reads i) FASTA file with DNA scaffolds and ii) integer with max chr size (bp) to output a multi-FASTA string
 # where sequences longer than max size GB are split into subsequences as needed, adding chunk number to headers.
-# This might be useful to run programs where large chromosomes are not supported, such as metaeuk or busco.
 # Note: N runs used to split are lost
 
 # 2026 Bruno Contreras-Moreira
@@ -24,8 +23,8 @@ while(<FA>) {
 
     $len = length($seq);
     if($len > 0) {
-      printf(">%s_%d %d\n%s\n",
-        $header,$chunkn,$len,$seq);
+      printf(">%s_%d %d\n%s",
+        $header,$chunkn,$len,wrap($seq));
       $tot+=$len;
     }
 
@@ -40,8 +39,8 @@ while(<FA>) {
     if($len > $maxchrsize) {
       ($chunk,$seq) = split(/N+([^N]*)$/, $seq);
       $len = length($chunk);
-      printf(">%s_%d %d\n%s\n",
-        $header,$chunkn,$len,$chunk);
+      printf(">%s_%d %d\n%s",
+        $header,$chunkn,$len,wrap($chunk));
       $tot+=$len;
       $chunkn++;
     }
@@ -51,9 +50,21 @@ close(FA);
 
 $len = length($seq);
 if($len > 0) {
-  printf(">%s_%d %d\n%s\n",
-    $header,$chunkn,$len,$seq);
+  printf(">%s_%d %d\n%s",
+    $header,$chunkn,$len,wrap($seq));
   $tot+=$len;
 }
 
 warn "\n# INFO: sequence length = $tot\n";
+
+
+sub wrap { 
+  my ($seq) = @_;
+    
+  my $wrapped = '';
+  while ($seq =~ m/(\S{1,80})/g) {
+    $wrapped .= "$1\n";
+  }
+
+  return $wrapped
+}
