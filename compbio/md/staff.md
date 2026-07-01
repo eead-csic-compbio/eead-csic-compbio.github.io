@@ -24,21 +24,21 @@ See some pics of the group: [2025](pics/fotoGrupoJul2025.jpeg), [2024](pics/labo
 [Twitter](https://twitter.com/BrunoContrerasM) -->
 (funded by [ARAID](https://www.araid.es) 2007-2018, @EMBL-EBI 2018-2021)
 -   [Inmaculada Yruela](http://www.eead.csic.es/home/staffinfo?Id=58): [ORCiD](https://orcid.org/0000-0003-3608-4720) [DIGITAL.CSIC](https://digital.csic.es/cris/rp/rp02621) [Twitter](https://twitter.com/InmaYruela), leads [GBsC](https://www.csic.es/es/investigacion/unidades-asociadas/grupo-de-bioquimica-biofisica-y-biologia-computacional)
--   [Sara Herrera](https://www.linkedin.com/in/sara-herrera-phd-5500711ab) (Dec2024-), [MOMENTUM](https://momentum.csic.es/en/momentum-program/) program
+-   [Sara Herrera](https://www.linkedin.com/in/sara-herrera-phd-5500711ab) (Dec2024-), [MOMENTUM](https://momentum.csic.es/en/momentum-program/) program, postdoc
 <!-- [Teshome Dagne Mulugeta](https://www.nmbu.no/emp/teshome.mulugeta) (Jan2022-), co-supervised PhD at [NMBU](https://www.nmbu.no/en) -->
 -   [Rubén Sancho Cohen](https://www.linkedin.com/in/ruben-sancho-agronomo)
-    (Jan2014-Sep2018, Feb2026-, [PhD](https://digital.csic.es/handle/10261/174792) co-directed by Pilar Catalán)
+    (Jan2014-Sep2018, Feb2026-, [PhD](https://digital.csic.es/handle/10261/174792) co-directed by Pilar Catalán, postdoc)
 -   [Francesc Montardit Tardá](https://www.researchgate.net/profile/Francesc-Montardit-Tarda)
-    (Feb2025-, Sept2017-Oct2018, [MSc](http://hdl.handle.net/10261/387927) co-directed by Y Gogorcena)
+    (Feb2025-, Sept2017-Oct2018, [MSc](http://hdl.handle.net/10261/387927) co-directed by Y Gogorcena, postdoc)
 <!--https://agris.fao.org/agris-search/search.do?recordID=QC2019600125-->    
 -   [Laura Ruiz Torres](https://www.researchgate.net/profile/Laura-Torres-26) (Apr2022-), PhD co-supervised by Antonio Manzaneda at [UJaén](https://www.ujaen.es/en)
 -   [Joan Sàrria Álvarez](https://www.linkedin.com/in/joan-s%C3%A0rria-%C3%A1lvarez) (Mar2024-), PhD co-supervised by Ana Casas
--   [Sheila Salinas Ortiz](https://www.linkedin.com/in/sheila-salinas-ortiz-968b17236) (Nov2025-) , undergraduate from [USJ](https://www.usj.es), prácticas & TFG
--   Carlos J Ramírez (Mar2026-), prácticas [CPIFP Los Enlaces](https://cpilosenlaces.com)
 
 
 ### Previous members / visitors
 
+-   [Sheila Salinas Ortiz](https://www.linkedin.com/in/sheila-salinas-ortiz-968b17236) (Nov2025-Jul2026) , undergraduate from [USJ](https://www.usj.es), prácticas & TFG, [GitHub](https://github.com/sheila-salinasortiz/get_phylomarkers/tree/taxvalidate/taxvalidate) 
+-   Carlos J Ramírez (Mar2026-Jun2026), prácticas [CPIFP Los Enlaces](https://cpilosenlaces.com)
 -   [Irene Puyó Iguaz](https://www.linkedin.com/in/irene-puy%C3%B3-iguaz) (Nov2024-Sep2025), undergraduate from [USJ](https://www.usj.es), prácticas & TFG, [GitHub](https://github.com/IrenePuyo/Assembly-annotation-and-taxonomical-classification-of-a-Bacillus-strain) 
 -   [Javier Esteban Tricas](https://www.linkedin.com/in/javier-esteban-tricas-5ab444245) (May2025-Ago2025), prácticas [UOC](https://www.uoc.edu), [GitHub](https://github.com/JaviETricas/EnsambladorAutonomoCloroplastos)
 -   [Hamza Amhal](https://www.linkedin.com/in/hamza-amhal-345b07198) (Oct2024-Jul2025), [IAMZ](https://www.iamz.ciheam.org) [MSc](http://hdl.handle.net/10261/407574) co-supervised by Rubén Sancho, [GitHub](https://github.com/Hamzaamhal09)
