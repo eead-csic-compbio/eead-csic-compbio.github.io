@@ -117,6 +117,17 @@ title: Computational & structural biology publications
 
 </ol>
 
+### Datasets
+
+- PTI-ClimaIndices: rejillas diarias de índices climáticos en España (2026) https://doi.org/10.20350/digitalCSIC/22646
+
+- Exome capture of landraces from the Spanish Barley Core Collection (SBCC, 2024) https://www.ebi.ac.uk/ena/browser/view/PRJEB73755
+
+- Survey of natural variation of genes related to day length and flowering time in barley (2020) https://www.ebi.ac.uk/ena/browser/view/PRJEB27962
+
+- Phylogeny of *Brachypodium distachyon* complex based on chloroplast genomes assembled from whole genome sequence reads (2017) https://www.ebi.ac.uk/ena/browser/view/PRJEB12688
+
+
 ### PhD & Master theses
 
 -   **Amhal H** (2025) Discovering haplotypes for adaptation in Spanish barley landraces: the case of chromosome 5H. Masters thesis, CIHEAM-IAMZ & Universidad de Lleida ([PDF](http://hdl.handle.net/10261/407574)).
